@@ -4,11 +4,11 @@
 - In this repository I will to post links to 3 DSA questions everyday, from Day 1 to Day 100.
 - You should complete the questions in 90 min and give 30 min to understand the solution if you are unable to solve the question, but there is no fast and hard rules
 - These links will be present in this readme as well as in the issue sections.
-- You should make a folder in this repository with your name in which you can create your own readme, where you tell if you completed the tasks on that particular day or not. for eg checkout [1.demo](1.demo\\) folder.
+- You should make a folder in this repository with your name in which you can create your own readme, where you tell if you completed the tasks on that particular day or not. for eg checkout [1.demo](https://github.com/kushagra414/100-Days-of-Code/tree/master/1.demo) folder.
 - You can submit a pull-request after you have completed the given questions.
 - The questions will begin will be easy in the beginning and they will gradually become harder and harder day by day.
 - There will be an *IDIOT* box for each day in this readme , display the names of people who participated in **100 Days of Code** and did not complete the given tasks on a particular day.
-> Here you can check my schedule for completing the [**100 Days of Code**](\\KushagraShekhawat\\Schedule.md)
+> Here you can check my schedule for completing the [**100 Days of Code**](https://github.com/kushagra414/100-Days-of-Code/blob/master/KushagraShekhawat/Schedule.md)
 ---
 
 ## <p style="color:orange">Google Summer of Code</p>
