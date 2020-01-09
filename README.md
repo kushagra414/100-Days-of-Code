@@ -6,8 +6,8 @@
 - These links will be present in this readme as well as in the issue sections.
 - You should make a folder in this repository with your name in which you can create your own readme, where you tell if you completed the tasks on that particular day or not. for eg checkout [1.demo](https://github.com/kushagra414/100-Days-of-Code/tree/master/1.demo) folder.
 - You can submit a pull-request after you have completed the given questions.
-- The questions will begin will be easy in the beginning and they will gradually become harder and harder day by day.
-- There will be an *IDIOT* box for each day in this readme , display the names of people who participated in **100 Days of Code** and did not complete the given tasks on a particular day.
+- The questions will be easy in the beginning and they will gradually become harder and harder day by day.
+- There will be an *IDIOT* box for each day in this readme , displaying the names of people who participated in **100 Days of Code** and did not complete the given tasks on a particular day.
 > Here you can check my schedule for completing the [**100 Days of Code**](https://github.com/kushagra414/100-Days-of-Code/blob/master/KushagraShekhawat/Schedule.md)
 ---
 
