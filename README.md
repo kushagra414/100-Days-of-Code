@@ -31,7 +31,7 @@
 
 ---
 
-### **Day-3**
+### **Day minus 3**
 #### Tasks
 - [ ] Submit you Name for 100 Days of Code. 
 > **IDIOT BOX** : Empty
