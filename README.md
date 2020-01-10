@@ -1,5 +1,9 @@
 # 100 Days of Code
 
+![Number of Days](https://img.shields.io/badge/100%20Days%20of%20Code-0%25-brightgreen)
+![Number of DSA Questions](https://img.shields.io/badge/DSA-0%20Questions-orange)
+![Time given to GSOC](https://img.shields.io/badge/GSOC-0%20hours-blueviolet)
+
 ## Data Structure and Algorithms
 - In this repository I will to post links to 3 DSA questions everyday, from Day 1 to Day 100.
 - On Saturdays and Sundays I will post 6 questions, out of which 4 will be compulsory and other 2 will be optional.
