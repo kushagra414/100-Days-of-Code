@@ -2,6 +2,7 @@
 
 ## Data Structure and Algorithms
 - In this repository I will to post links to 3 DSA questions everyday, from Day 1 to Day 100.
+- On Saturdays and Sundays I will post 6 questions, out of which 4 will be compulsory and other 2 will be optional.
 - You should complete the questions in 90 min and give 30 min to understand the solution if you are unable to solve the question, but there is no fast and hard rules
 - These links will be present in this readme as well as in the issue sections.
 - You should make a folder in this repository with your name in which you can create your own readme, where you tell if you completed the tasks on that particular day or not. for eg checkout [1.demo](1.demo/) folder.
