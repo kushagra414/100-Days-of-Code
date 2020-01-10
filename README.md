@@ -1,8 +1,6 @@
 # 100 Days of Code
 
-![Number of Days](https://img.shields.io/badge/100%20Days%20of%20Code-0%25-brightgreen)
-![Number of DSA Questions](https://img.shields.io/badge/DSA-0%20Questions-orange)
-![Time given to GSOC](https://img.shields.io/badge/GSOC-0%20hours-blueviolet)
+![100 Days of Code](images/100_days_of_code.jpeg)<br>
 
 ## Data Structure and Algorithms
 - In this repository I will to post links to 3 DSA questions everyday, from Day 1 to Day 100.
@@ -14,6 +12,7 @@
 - The questions will be easy in the beginning and they will gradually become harder and harder day by day.
 - There will be an *IDIOT* box for each day in this readme , displaying the names of people who participated in **100 Days of Code** and did not complete the given tasks on a particular day.
 > Here you can check my schedule for completing the [**100 Days of Code**](KushagraShekhawat/Schedule.md)
+
 ---
 
 ## Google Summer of Code
@@ -33,6 +32,12 @@
 | ---                            | ---  | ---    |
 | Kushagra Shekhawat             |YES   |YES     |
 > 100 Days of Code will start from 13/01/2020
+
+---
+
+![Number of Days](https://img.shields.io/badge/100%20Days%20of%20Code-0%25-brightgreen)
+![Number of DSA Questions](https://img.shields.io/badge/DSA-0%20Questions-orange)
+![Time given to GSOC](https://img.shields.io/badge/GSOC-0%20hours-blueviolet)<br>
 
 ---
 
