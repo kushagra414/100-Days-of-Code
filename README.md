@@ -32,7 +32,7 @@
 |   Name                         | DSA  |  GSOC  |
 | ---                            | ---  | ---    |
 | Kushagra Shekhawat             |YES   |YES     |
-| Janmaijai rana                 |YES  |YES    |   
+| Janmaijai rana                 |YES   |YES     |   
 > 100 Days of Code will start from 13/01/2020
 
 ---
