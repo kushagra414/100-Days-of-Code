@@ -11,6 +11,7 @@
 - You can submit a pull-request after you have completed the given questions.
 - The questions will be easy in the beginning and they will gradually become harder and harder day by day.
 - There will be an *IDIOT* box for each day in this readme , displaying the names of people who participated in **100 Days of Code** and did not complete the given tasks on a particular day.
+- All the questions must be attempted in C/C++ or Java. No other Language is allowed.
 > Here you can check my schedule for completing the [**100 Days of Code**](KushagraShekhawat/Schedule.md)
 
 ---
@@ -44,5 +45,11 @@
 ### **Day minus 3**
 #### Tasks
 - [ ] Learn Git/GitHub.
-- [ ] Submit you Name for 100 Days of Code. 
+- [ ] Submit your Name for 100 Days of Code. 
+> **IDIOT BOX** : Empty
+
+### **Day minus 2**
+#### Tasks
+- [ ] Learn Git/GitHub.
+- [ ]  Submit your Name for 100 Days of Code.
 > **IDIOT BOX** : Empty
