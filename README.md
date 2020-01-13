@@ -54,3 +54,23 @@
 - [ ] Learn Git/GitHub.
 - [ ]  Submit your Name for 100 Days of Code.
 > **IDIOT BOX** : Empty
+
+### **Day minus 1**
+#### Tasks
+- [ ] Learn Git/GitHub.
+- [ ]  Submit your Name for 100 Days of Code.
+> **IDIOT BOX** : Empty
+
+### **Day 1**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0)
+- [ ] [Missing number in array](https://practice.geeksforgeeks.org/problems/missing-number-in-array/0)
+- [ ] [Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0)
+> Algorithms(Optional)
+- [ ] [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0)
+- [ ] [Missing number in array](https://practice.geeksforgeeks.org/problems/missing-number-in-array/0)
+> GSOC
+- [ ] Find an Organisation to contrinute to, you can [this](https://docs.google.com/spreadsheets/d/1pAHnRLsRMe2AmXTWcy1QQ_IGwtIBPgymj2QQn1fZiUI/edit#gid=0) data to select an organisation.
+- [ ] Find some `good first issues` to solve, you can also cotribute in Documentation of the Organisation.
