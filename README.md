@@ -75,3 +75,16 @@
 > GSOC
 - [ ] Find an Organisation to contrinute to, you can [this](https://docs.google.com/spreadsheets/d/1pAHnRLsRMe2AmXTWcy1QQ_IGwtIBPgymj2QQn1fZiUI/edit#gid=0) data to select an organisation.
 - [ ] Find some `good first issues` to solve, you can also cotribute in Documentation of the Organisation.
+
+### **Day 2**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Finding middle element in a linked list](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)
+- [ ] [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
+- [ ] [Detect Loop in linked list](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
+> Algorithms(Optional)
+- [ ] [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
+- [ ] [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
