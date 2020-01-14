@@ -17,4 +17,4 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)
 - [x] [Majority Elementy](https://practice.geeksforgeeks.org/problems/majority-element/0)
 >> GSOC
-- [ ] Give time to GSOC.
+- [x] Give time to GSOC.
