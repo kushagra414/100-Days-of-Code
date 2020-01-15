@@ -25,7 +25,7 @@ I will be participating in following Activities in 100 Days of Code.
    
 
 
-     ##Day 1:##
+     ## Day 1: ##
 
         # Data Structure(Compulsory)#
 
