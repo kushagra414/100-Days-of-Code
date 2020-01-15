@@ -34,6 +34,7 @@
 | Kushagra Shekhawat             |YES   |YES     |
 | Janmaijai Rana                 |YES   |YES     |
 | Vaibhav Kumar                  |YES   |NO      |
+| Dhruv Yadav                    |YES   |NO      |
 > 100 Days of Code will start from 13/01/2020
 
 ---
@@ -50,11 +51,15 @@
 - [ ] Submit your Name for 100 Days of Code. 
 > **IDIOT BOX** : Empty
 
+---
+
 ### **Day minus 2**
 #### Tasks
 - [ ] Learn Git/GitHub.
 - [ ]  Submit your Name for 100 Days of Code.
 > **IDIOT BOX** : Empty
+
+---
 
 ### **Day minus 1**
 #### Tasks
@@ -62,16 +67,34 @@
 - [ ]  Submit your Name for 100 Days of Code.
 > **IDIOT BOX** : Empty
 
+---
+
 ### **Day 1**
 #### Tasks
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0)
-- [ ] [Missing number in array](https://practice.geeksforgeeks.org/problems/missing-number-in-array/0)
-- [ ] [Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0)
+- [x] [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0)
+- [x] [Missing number in array](https://practice.geeksforgeeks.org/problems/missing-number-in-array/0)
+- [x] [Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0)
 > Algorithms(Optional)
-- [ ] [Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)
-- [ ] [Majority Elementy](https://practice.geeksforgeeks.org/problems/majority-element/0)
+- [x] [Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)
+- [x] [Majority Elementy](https://practice.geeksforgeeks.org/problems/majority-element/0)
 > GSOC
-- [ ] Find an Organisation to contrinute to, you can [this](https://docs.google.com/spreadsheets/d/1pAHnRLsRMe2AmXTWcy1QQ_IGwtIBPgymj2QQn1fZiUI/edit#gid=0) data to select an organisation.
-- [ ] Find some `good first issues` to solve, you can also cotribute in Documentation of the Organisation.
+- [x] Find an Organisation to contrinute to, you can [this](https://docs.google.com/spreadsheets/d/1pAHnRLsRMe2AmXTWcy1QQ_IGwtIBPgymj2QQn1fZiUI/edit#gid=0) data to select an organisation.
+- [x] Find some `good first issues` to solve, you can also cotribute in Documentation of the Organisation.
+> **IDIOT BOX** : Janmaijai
+
+---
+
+### **Day 2**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Finding middle element in a linked list](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)
+- [ ] [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
+- [ ] [Detect Loop in linked list](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
+> Algorithms(Optional)
+- [ ] [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
+- [ ] [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
