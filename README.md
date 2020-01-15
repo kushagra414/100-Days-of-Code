@@ -34,6 +34,7 @@
 | Kushagra Shekhawat             |YES   |YES     |
 | Janmaijai Rana                 |YES   |YES     |
 | Vaibhav Kumar                  |YES   |NO      |
+| Dhruv Yadav                    |YES   |NO      |
 > 100 Days of Code will start from 13/01/2020
 
 ---
