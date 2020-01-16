@@ -29,3 +29,9 @@ I will be participating in following Activities in 100 Days of Code.
 >> Algorithms(Optional)
 - [x] [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
 - [ ] [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0)
+
+-------------------
+>Day 2:
+>>Data Structure:
+- [x] Immediate Smaller Element
+- [ ] Others
