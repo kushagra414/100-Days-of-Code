@@ -115,6 +115,7 @@
 - [x] [Recursively remove all adjacent duplicates](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+> **IDIOT BOX** : Dhruv, Vaibhav
 
 ---
 
