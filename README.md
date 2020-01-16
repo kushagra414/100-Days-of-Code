@@ -107,11 +107,26 @@
 #### Tasks
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [Immediate Smaller Element](https://practice.geeksforgeeks.org/problems/immediate-smaller-element/0)
-- [ ] [Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1)
-- [ ] [Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
+- [x] [Immediate Smaller Element](https://practice.geeksforgeeks.org/problems/immediate-smaller-element/0)
+- [x] [Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1)
+- [x] [Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
 > Algorithms(Optional)
-- [ ] [Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1)
-- [ ] [Recursively remove all adjacent duplicates](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0)
+- [x] [Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1)
+- [x] [Recursively remove all adjacent duplicates](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 4**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Implement Queue using array](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1)
+- [ ] [Valid Substring](https://practice.geeksforgeeks.org/problems/valid-substring/0)
+- [ ] [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1)
+> Algorithms(Optional)
+- [ ] [Activity Selection](https://practice.geeksforgeeks.org/problems/activity-selection/0)
+- [ ] [Max length chain](https://practice.geeksforgeeks.org/problems/max-length-chain/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
