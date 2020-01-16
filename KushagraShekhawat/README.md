@@ -33,3 +33,18 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0)
 >> GSOC
 - [x] Work on some issues and try to fix them.
+
+---
+
+### **Day 3**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Immediate Smaller Element](https://practice.geeksforgeeks.org/problems/immediate-smaller-element/0)
+- [x] [Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1)
+- [x] [Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
+> Algorithms(Optional)
+- [x] [Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1)
+- [x] [Recursively remove all adjacent duplicates](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
