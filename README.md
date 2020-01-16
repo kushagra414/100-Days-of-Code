@@ -99,7 +99,7 @@
 - [x] [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0)
 > GSOC
 - [x] Work on some issues and try to fix them.
-> **IDIOT BOX** : Dhruv, Shashwat
+> **IDIOT BOX** : Dhruv
 
 ---
 
@@ -107,11 +107,11 @@
 #### Tasks
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [Stack designer](https://practice.geeksforgeeks.org/problems/stack-designer/1)
-- [ ] [Queue Reversal](https://practice.geeksforgeeks.org/problems/queue-reversal/1)
-- [ ] [Stack Operations](https://practice.geeksforgeeks.org/problems/stacks-operations/1)
+- [ ] [Immediate Smaller Element](https://practice.geeksforgeeks.org/problems/immediate-smaller-element/0)
+- [ ] [Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1)
+- [ ] [Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
 > Algorithms(Optional)
-- [ ] [Game of Death in a circle](https://practice.geeksforgeeks.org/problems/game-of-death-in-a-circle/0)
-- [ ] [Handshakes](https://practice.geeksforgeeks.org/problems/handshakes/0)
+- [ ] [Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1)
+- [ ] [Recursively remove all adjacent duplicates](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
