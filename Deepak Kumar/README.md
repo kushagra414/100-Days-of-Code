@@ -20,6 +20,7 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] DSA
 - [x] GSOC
 
+---
 
 ### **Day 1**
 #### Tasks
@@ -34,3 +35,32 @@ I will be participating in following Activities in 100 Days of Code.
 > GSOC
 - [ ] Find an Organisation to contrinute to, you can [this](https://docs.google.com/spreadsheets/d/1pAHnRLsRMe2AmXTWcy1QQ_IGwtIBPgymj2QQn1fZiUI/edit#gid=0) data to select an organisation.
 - [ ] Find some `good first issues` to solve, you can also cotribute in Documentation of the Organisation.
+
+---
+
+### **Day 2**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Finding middle element in a linked list](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)
+- [x] [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
+- [x] [Detect Loop in linked list](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
+> Algorithms(Optional)
+- [ ] [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
+- [ ] [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+
+
+- ### **Day 3**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [X] [Immediate Smaller Element](https://practice.geeksforgeeks.org/problems/immediate-smaller-element/0)
+- [X] [Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1)
+- [ ] [Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
+> Algorithms(Optional)
+- [ ] [Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1)
+- [ ] [Recursively remove all adjacent duplicates](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
