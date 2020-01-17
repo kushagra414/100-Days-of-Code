@@ -48,3 +48,19 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Recursively remove all adjacent duplicates](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+
+
+---
+
+### **Day 4**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Implement Queue using array](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1)
+- [x] [Valid Substring](https://practice.geeksforgeeks.org/problems/valid-substring/0)
+- [x] [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1)
+> Algorithms(Optional)
+- [x] [Activity Selection](https://practice.geeksforgeeks.org/problems/activity-selection/0)
+- [x] [Max length chain](https://practice.geeksforgeeks.org/problems/max-length-chain/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
