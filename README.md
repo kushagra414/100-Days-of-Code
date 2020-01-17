@@ -139,7 +139,7 @@
 #### Tasks
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1)
+- [ ] [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
 - [ ] [Left View of Binary Tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1)
 - [ ] [Print all nodes that don't have sibling](https://practice.geeksforgeeks.org/problems/print-all-nodes-that-dont-have-sibling/1)
 - [ ] [Determine if Two Trees are Identical](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1)
