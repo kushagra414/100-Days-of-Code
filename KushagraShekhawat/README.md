@@ -63,4 +63,4 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Activity Selection](https://practice.geeksforgeeks.org/problems/activity-selection/0)
 - [x] [Max length chain](https://practice.geeksforgeeks.org/problems/max-length-chain/1)
 > GSOC
-- [ ] Work on some issues and try to fix them.
+- [x] Work on some issues and try to fix them.
