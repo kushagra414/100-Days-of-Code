@@ -123,11 +123,28 @@
 #### Tasks
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [Implement Queue using array](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1)
-- [ ] [Valid Substring](https://practice.geeksforgeeks.org/problems/valid-substring/0)
-- [ ] [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1)
+- [x] [Implement Queue using array](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1)
+- [x] [Valid Substring](https://practice.geeksforgeeks.org/problems/valid-substring/0)
+- [x] [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1)
 > Algorithms(Optional)
-- [ ] [Activity Selection](https://practice.geeksforgeeks.org/problems/activity-selection/0)
-- [ ] [Max length chain](https://practice.geeksforgeeks.org/problems/max-length-chain/1)
+- [x] [Activity Selection](https://practice.geeksforgeeks.org/problems/activity-selection/0)
+- [x] [Max length chain](https://practice.geeksforgeeks.org/problems/max-length-chain/1)
+> GSOC
+- [x] Work on some issues and try to fix them.
+> **IDIOT BOX** : Dhruv, Vaibhav, Shashwat
+
+---
+
+### **Day 5**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
+- [ ] [Left View of Binary Tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1)
+- [ ] [Print all nodes that don't have sibling](https://practice.geeksforgeeks.org/problems/print-all-nodes-that-dont-have-sibling/1)
+- [ ] [Determine if Two Trees are Identical](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1)
+> Algorithms(Optional)
+- [ ] [Finding the numbers](https://practice.geeksforgeeks.org/problems/finding-the-numbers/0)
+- [ ] [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
