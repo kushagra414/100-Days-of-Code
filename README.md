@@ -148,3 +148,20 @@
 - [ ] [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+> **IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Deepak
+
+---
+
+### **Day 6**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Minimum element in BST](https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1)
+- [ ] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
+- [ ] [Array to BST](https://practice.geeksforgeeks.org/problems/array-to-bst/0)
+- [ ] [Insert a node in a BST](https://practice.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1)
+> Algorithms(Optional)
+- [ ] [Primes sum](https://practice.geeksforgeeks.org/problems/primes-sum/0)
+- [ ] [Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
