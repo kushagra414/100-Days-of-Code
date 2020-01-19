@@ -10,8 +10,15 @@ int main() {
 	while(T--){
 	    int N;
 	    scanf("%d",&N);
-	    if(N%2==0)
-	        printf("Yes\n");
+	    if(N%2==0){
+	        if(N ==2)
+	            printf("No\n");
+	        else
+	            printf("Yes\n");
+	    }
+	    else if(N==3){
+	       printf("No\n");
+	    }
 	    else{
 	        N=N-2;
 	        bool prime[N+1];
