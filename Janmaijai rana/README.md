@@ -52,8 +52,49 @@ I will be participating in following Activities in 100 Days of Code.
        - [X] Sort an array of 0s, 1s and 2s
        - [ ] Chocolate Distribution Problem
 
+
+
+
+### **Day 3**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [X] [Immediate Smaller Element](https://practice.geeksforgeeks.org/problems/immediate-smaller-element/0)
+- [ ] [Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-    form/1)
+- [X] [Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
+> Algorithms(Optional)
+- [X] [Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1)
+- [ ] [Recursively remove all adjacent duplicates](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
         
+     
+### **Day 4**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [X] [Implement Queue using array](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1)
+- [X] [Valid Substring](https://practice.geeksforgeeks.org/problems/valid-substring/0)
+- [X] [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1)
+> Algorithms(Optional)
+- [X] [Activity Selection](https://practice.geeksforgeeks.org/problems/activity-selection/0)
+- [X] [Max length chain](https://practice.geeksforgeeks.org/problems/max-length-chain/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
 
 
+### **Day 5**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [X] [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
+- [ ] [Left View of Binary Tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1)
+- [ ] [Print all nodes that don't have sibling](https://practice.geeksforgeeks.org/problems/print-all-nodes-that-dont-have-sibling/1)
+- [X] [Determine if Two Trees are Identical](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1)
+> Algorithms(Optional)
+- [ ] [Finding the numbers](https://practice.geeksforgeeks.org/problems/finding-the-numbers/0)
+- [ ] [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
       
 

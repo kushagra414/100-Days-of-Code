@@ -107,11 +107,61 @@
 #### Tasks
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [Immediate Smaller Element](https://practice.geeksforgeeks.org/problems/immediate-smaller-element/0)
-- [ ] [Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1)
-- [ ] [Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
+- [x] [Immediate Smaller Element](https://practice.geeksforgeeks.org/problems/immediate-smaller-element/0)
+- [x] [Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1)
+- [x] [Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
 > Algorithms(Optional)
-- [ ] [Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1)
-- [ ] [Recursively remove all adjacent duplicates](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0)
+- [x] [Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1)
+- [x] [Recursively remove all adjacent duplicates](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+> **IDIOT BOX** : Dhruv, Vaibhav
+
+---
+
+### **Day 4**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Implement Queue using array](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1)
+- [x] [Valid Substring](https://practice.geeksforgeeks.org/problems/valid-substring/0)
+- [x] [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1)
+> Algorithms(Optional)
+- [x] [Activity Selection](https://practice.geeksforgeeks.org/problems/activity-selection/0)
+- [x] [Max length chain](https://practice.geeksforgeeks.org/problems/max-length-chain/1)
+> GSOC
+- [x] Work on some issues and try to fix them.
+> **IDIOT BOX** : Dhruv, Vaibhav, Shashwat
+
+---
+
+### **Day 5**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
+- [x] [Left View of Binary Tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1)
+- [x] [Print all nodes that don't have sibling](https://practice.geeksforgeeks.org/problems/print-all-nodes-that-dont-have-sibling/1)
+- [x] [Determine if Two Trees are Identical](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1)
+> Algorithms(Optional)
+- [x] [Finding the numbers](https://practice.geeksforgeeks.org/problems/finding-the-numbers/0)
+- [x] [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+> **IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Deepak
+
+---
+
+### **Day 6**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Minimum element in BST](https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1)
+- [ ] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
+- [ ] [Array to BST](https://practice.geeksforgeeks.org/problems/array-to-bst/0)
+- [ ] [Insert a node in a BST](https://practice.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1)
+> Algorithms(Optional)
+- [ ] [Primes sum](https://practice.geeksforgeeks.org/problems/primes-sum/0)
+- [ ] [Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
