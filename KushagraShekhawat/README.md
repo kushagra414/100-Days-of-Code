@@ -72,11 +72,11 @@ I will be participating in following Activities in 100 Days of Code.
 **DSA :**
 > Data Structure(Compulsory)
 - [x] [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
-- [ ] [Left View of Binary Tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1)
-- [ ] [Print all nodes that don't have sibling](https://practice.geeksforgeeks.org/problems/print-all-nodes-that-dont-have-sibling/1)
-- [ ] [Determine if Two Trees are Identical](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1)
+- [x] [Left View of Binary Tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1)
+- [x] [Print all nodes that don't have sibling](https://practice.geeksforgeeks.org/problems/print-all-nodes-that-dont-have-sibling/1)
+- [x] [Determine if Two Trees are Identical](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1)
 > Algorithms(Optional)
-- [ ] [Finding the numbers](https://practice.geeksforgeeks.org/problems/finding-the-numbers/0)
-- [ ] [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)
+- [x] [Finding the numbers](https://practice.geeksforgeeks.org/problems/finding-the-numbers/0)
+- [x] [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
