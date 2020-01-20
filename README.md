@@ -180,3 +180,16 @@
 - [ ] [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+> Dhruv, Vaibhav
+
+---
+
+### **Day 8**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Spirally traversing a matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)
+- [ ] [Search in a matrix](https://practice.geeksforgeeks.org/problems/search-in-a-matrix/0)
+- [ ] [Flood fill Algorithm](https://practice.geeksforgeeks.org/problems/flood-fill-algorithm/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
