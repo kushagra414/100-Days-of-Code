@@ -173,9 +173,9 @@
 #### Tasks
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [Key Pair](https://practice.geeksforgeeks.org/problems/key-pair/0)
-- [ ] [Find all pairs with a given sum](https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0)
-- [ ] [Common elements](https://practice.geeksforgeeks.org/problems/common-elements/0)
+- [x] [Key Pair](https://practice.geeksforgeeks.org/problems/key-pair/0)
+- [x] [Find all pairs with a given sum](https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0)
+- [x] [Common elements](https://practice.geeksforgeeks.org/problems/common-elements/0)
 > Optional
 - [ ] [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
 > GSOC
