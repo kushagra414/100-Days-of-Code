@@ -96,5 +96,18 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+
+
+### **Day 7**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [X] [Key Pair](https://practice.geeksforgeeks.org/problems/key-pair/0)
+- [ ] [Find all pairs with a given sum](https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0)
+- [ ] [Common elements](https://practice.geeksforgeeks.org/problems/common-elements/0)
+> Optional
+- [ ] [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
       
 
