@@ -110,3 +110,15 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 8**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Spirally traversing a matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)
+- [x] [Search in a matrix](https://practice.geeksforgeeks.org/problems/search-in-a-matrix/0)
+- [x] [Flood fill Algorithm](https://practice.geeksforgeeks.org/problems/flood-fill-algorithm/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
