@@ -201,8 +201,8 @@
 #### Tasks
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [Equilibrium point](https://practice.geeksforgeeks.org/problems/equilibrium-point/0)
-- [ ] [Maximum Index](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
-- [ ] [Inversion of array](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
+- [x] [Equilibrium point](https://practice.geeksforgeeks.org/problems/equilibrium-point/0)
+- [x] [Maximum Index](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
+- [x] [Inversion of array](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
