@@ -122,3 +122,15 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Flood fill Algorithm](https://practice.geeksforgeeks.org/problems/flood-fill-algorithm/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 9**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Equilibrium point](https://practice.geeksforgeeks.org/problems/equilibrium-point/0)
+- [x] [Maximum Index](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
+- [x] [Inversion of array](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
