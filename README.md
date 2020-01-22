@@ -193,7 +193,7 @@
 - [x] [Flood fill Algorithm](https://practice.geeksforgeeks.org/problems/flood-fill-algorithm/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
-> **IDIOT BOX** : Dhruv, Vaibhav, Deepak, Shashwat
+> **IDIOT BOX** : Dhruv, Vaibhav, Deepak, Shashwat, Janmaijai
 
 ---
 
