@@ -109,5 +109,17 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+
+
+
+### **Day 9**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [X] [Equilibrium point](https://practice.geeksforgeeks.org/problems/equilibrium-point/0)
+- [ ] [Maximum Index](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
+- [ ] [Inversion of array](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
       
 
