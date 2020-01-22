@@ -173,10 +173,36 @@
 #### Tasks
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [Key Pair](https://practice.geeksforgeeks.org/problems/key-pair/0)
-- [ ] [Find all pairs with a given sum](https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0)
-- [ ] [Common elements](https://practice.geeksforgeeks.org/problems/common-elements/0)
+- [x] [Key Pair](https://practice.geeksforgeeks.org/problems/key-pair/0)
+- [x] [Find all pairs with a given sum](https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0)
+- [x] [Common elements](https://practice.geeksforgeeks.org/problems/common-elements/0)
 > Optional
 - [ ] [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+> **IDIOT BOX** : Dhruv, Vaibhav
+
+---
+
+### **Day 8**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Spirally traversing a matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)
+- [x] [Search in a matrix](https://practice.geeksforgeeks.org/problems/search-in-a-matrix/0)
+- [x] [Flood fill Algorithm](https://practice.geeksforgeeks.org/problems/flood-fill-algorithm/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+> **IDIOT BOX** : Dhruv, Vaibhav, Deepak, Shashwat
+
+---
+
+### **Day 9**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Equilibrium point](https://practice.geeksforgeeks.org/problems/equilibrium-point/0)
+- [ ] [Maximum Index](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
+- [ ] [Inversion of array](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
