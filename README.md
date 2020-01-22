@@ -202,7 +202,20 @@
 **DSA :**
 > Data Structure(Compulsory)
 - [x] [Equilibrium point](https://practice.geeksforgeeks.org/problems/equilibrium-point/0)
-- [x] [Maximum Index](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
+- [x] [Maximum Index](https://practice.geeksforgeeks.org/problems/maximum-index/0)
 - [x] [Inversion of array](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+> **IDIOT BOX** : Dhruv, Vaibhav, Deepak, Shashwat
+
+---
+
+### **Day 10**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Check if Linked List is Palindrome](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1)
+- [ ] [Nth node from end of linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
+- [ ] [Remove loop in Linked List](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
