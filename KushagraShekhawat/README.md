@@ -134,3 +134,15 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Inversion of array](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 10**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Check if Linked List is Palindrome](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1)
+- [x] [Nth node from end of linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
+- [x] [Remove loop in Linked List](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
