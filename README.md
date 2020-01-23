@@ -214,8 +214,21 @@
 #### Tasks
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [Check if Linked List is Palindrome](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1)
-- [ ] [Nth node from end of linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
-- [ ] [Remove loop in Linked List](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
+- [x] [Check if Linked List is Palindrome](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1)
+- [x] [Nth node from end of linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
+- [x] [Remove loop in Linked List](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+> **IDIOT BOX** : Dhruv, Vaibhav, Deepak, Shashwat,Janmaijai
+
+---
+
+### **Day 10**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker/0)
+- [ ] [Next larger element](https://practice.geeksforgeeks.org/problems/next-larger-element/0)
+- [ ] [Get minimum element from stack](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
