@@ -40,9 +40,9 @@
 
 ---
 
-![Number of Days](https://img.shields.io/badge/100%20Days%20of%20Code-2-brightgreen)
-![Number of DSA Questions](https://img.shields.io/badge/DSA-10%20Questions-orange)
-![Time given to GSOC](https://img.shields.io/badge/GSOC-6%20hours-blueviolet)
+![Number of Days](https://img.shields.io/badge/100%20Days%20of%20Code-10-brightgreen)
+![Number of DSA Questions](https://img.shields.io/badge/DSA-47%20Questions-orange)
+![Time given to GSOC](https://img.shields.io/badge/GSOC-9%20hours-blueviolet)
 
 ---
 
