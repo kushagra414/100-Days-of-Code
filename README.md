@@ -40,9 +40,9 @@
 
 ---
 
-![Number of Days](https://img.shields.io/badge/100%20Days%20of%20Code-2-brightgreen)
-![Number of DSA Questions](https://img.shields.io/badge/DSA-10%20Questions-orange)
-![Time given to GSOC](https://img.shields.io/badge/GSOC-6%20hours-blueviolet)
+![Number of Days](https://img.shields.io/badge/100%20Days%20of%20Code-10-brightgreen)
+![Number of DSA Questions](https://img.shields.io/badge/DSA-47%20Questions-orange)
+![Time given to GSOC](https://img.shields.io/badge/GSOC-9%20hours-blueviolet)
 
 ---
 
@@ -173,10 +173,62 @@
 #### Tasks
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [Key Pair](https://practice.geeksforgeeks.org/problems/key-pair/0)
-- [ ] [Find all pairs with a given sum](https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0)
-- [ ] [Common elements](https://practice.geeksforgeeks.org/problems/common-elements/0)
+- [x] [Key Pair](https://practice.geeksforgeeks.org/problems/key-pair/0)
+- [x] [Find all pairs with a given sum](https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0)
+- [x] [Common elements](https://practice.geeksforgeeks.org/problems/common-elements/0)
 > Optional
 - [ ] [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+> **IDIOT BOX** : Dhruv, Vaibhav
+
+---
+
+### **Day 8**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Spirally traversing a matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)
+- [x] [Search in a matrix](https://practice.geeksforgeeks.org/problems/search-in-a-matrix/0)
+- [x] [Flood fill Algorithm](https://practice.geeksforgeeks.org/problems/flood-fill-algorithm/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+> **IDIOT BOX** : Dhruv, Vaibhav, Deepak, Shashwat, Janmaijai
+
+---
+
+### **Day 9**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Equilibrium point](https://practice.geeksforgeeks.org/problems/equilibrium-point/0)
+- [x] [Maximum Index](https://practice.geeksforgeeks.org/problems/maximum-index/0)
+- [x] [Inversion of array](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+> **IDIOT BOX** : Dhruv, Vaibhav, Deepak, Shashwat
+
+---
+
+### **Day 10**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Check if Linked List is Palindrome](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1)
+- [x] [Nth node from end of linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
+- [x] [Remove loop in Linked List](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+> **IDIOT BOX** : Dhruv, Vaibhav, Deepak, Shashwat,Janmaijai
+
+---
+
+### **Day 10**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker/0)
+- [ ] [Next larger element](https://practice.geeksforgeeks.org/problems/next-larger-element/0)
+- [ ] [Get minimum element from stack](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
