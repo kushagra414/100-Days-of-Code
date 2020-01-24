@@ -223,12 +223,13 @@
 
 ---
 
-### **Day 10**
+### **Day 11**
 #### Tasks
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker/0)
-- [ ] [Next larger element](https://practice.geeksforgeeks.org/problems/next-larger-element/0)
-- [ ] [Get minimum element from stack](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1)
+- [x] [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker/0)
+- [x] [Next larger element](https://practice.geeksforgeeks.org/problems/next-larger-element/0)
+- [x] [Get minimum element from stack](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Janmaijai
