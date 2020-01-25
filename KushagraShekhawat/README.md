@@ -146,3 +146,15 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Remove loop in Linked List](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 11**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker/0)
+- [x] [Next larger element](https://practice.geeksforgeeks.org/problems/next-larger-element/0)
+- [x] [Get minimum element from stack](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
