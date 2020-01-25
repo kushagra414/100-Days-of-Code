@@ -151,12 +151,25 @@ I will be participating in following Activities in 100 Days of Code.
 
 ---
 
-### **Day 10**
+### **Day 11**
 #### Tasks
 **DSA :**
 > Data Structure(Compulsory)
 - [ ] [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker/0)
 - [ ] [Next larger element](https://practice.geeksforgeeks.org/problems/next-larger-element/0)
 - [x] [Get minimum element from stack](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 12**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
+- [x] [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
+- [ ] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+- [x] [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
