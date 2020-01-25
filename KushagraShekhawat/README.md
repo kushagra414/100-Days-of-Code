@@ -168,6 +168,6 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
 - [x] [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
 - [ ] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
-- [ ] [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1)
+- [x] [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
