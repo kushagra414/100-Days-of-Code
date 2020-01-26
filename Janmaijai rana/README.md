@@ -121,5 +121,16 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] [Inversion of array](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+
+### **Day 13**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Sum Tree](https://practice.geeksforgeeks.org/problems/sum-tree/1)
+- [X] [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
+- [ ] [Root to leaf path sum](https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Janmaijai,Deepak
       
 
