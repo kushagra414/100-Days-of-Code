@@ -258,3 +258,18 @@
 - [ ] [Root to leaf path sum](https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 14**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
+- [ ] [Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor/0)
+- [ ] [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
+- [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
+- [ ] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+- [ ] [Root to leaf path sum](https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.

@@ -170,4 +170,16 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
 - [x] [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1)
 > GSOC
+- [ ] Work on some issues and try to fix them.\
+
+---
+
+### **Day 13**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Sum Tree](https://practice.geeksforgeeks.org/problems/sum-tree/1)
+- [ ] [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
+- [x] [Root to leaf path sum](https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)
+> GSOC
 - [ ] Work on some issues and try to fix them.
