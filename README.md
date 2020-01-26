@@ -259,7 +259,7 @@
 - [ ] [Root to leaf path sum](https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Janmaijai,Deepak
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
   
 
 ---
