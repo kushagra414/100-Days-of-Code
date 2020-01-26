@@ -40,9 +40,9 @@
 
 ---
 
-![Number of Days](https://img.shields.io/badge/100%20Days%20of%20Code-2-brightgreen)
-![Number of DSA Questions](https://img.shields.io/badge/DSA-10%20Questions-orange)
-![Time given to GSOC](https://img.shields.io/badge/GSOC-6%20hours-blueviolet)
+![Number of Days](https://img.shields.io/badge/100%20Days%20of%20Code-10-brightgreen)
+![Number of DSA Questions](https://img.shields.io/badge/DSA-47%20Questions-orange)
+![Time given to GSOC](https://img.shields.io/badge/GSOC-9%20hours-blueviolet)
 
 ---
 
@@ -193,7 +193,7 @@
 - [x] [Flood fill Algorithm](https://practice.geeksforgeeks.org/problems/flood-fill-algorithm/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
-> **IDIOT BOX** : Dhruv, Vaibhav, Deepak, Shashwat
+> **IDIOT BOX** : Dhruv, Vaibhav, Deepak, Shashwat, Janmaijai
 
 ---
 
@@ -201,8 +201,75 @@
 #### Tasks
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [Equilibrium point](https://practice.geeksforgeeks.org/problems/equilibrium-point/0)
-- [ ] [Maximum Index](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
-- [ ] [Inversion of array](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
+- [x] [Equilibrium point](https://practice.geeksforgeeks.org/problems/equilibrium-point/0)
+- [x] [Maximum Index](https://practice.geeksforgeeks.org/problems/maximum-index/0)
+- [x] [Inversion of array](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+> **IDIOT BOX** : Dhruv, Vaibhav, Deepak, Shashwat
+
+---
+
+### **Day 10**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Check if Linked List is Palindrome](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1)
+- [x] [Nth node from end of linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
+- [x] [Remove loop in Linked List](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+> **IDIOT BOX** : Dhruv, Vaibhav, Deepak, Shashwat,Janmaijai
+
+---
+
+### **Day 11**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker/0)
+- [x] [Next larger element](https://practice.geeksforgeeks.org/problems/next-larger-element/0)
+- [x] [Get minimum element from stack](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Janmaijai
+
+---
+
+### **Day 12**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
+- [ ] [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
+- [ ] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+- [ ] [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 13**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Sum Tree](https://practice.geeksforgeeks.org/problems/sum-tree/1)
+- [ ] [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
+- [ ] [Root to leaf path sum](https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 14**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
+- [ ] [Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor/0)
+- [ ] [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
+- [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
+- [ ] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+- [ ] [Root to leaf path sum](https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.

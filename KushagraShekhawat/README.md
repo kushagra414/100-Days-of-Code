@@ -122,3 +122,64 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Flood fill Algorithm](https://practice.geeksforgeeks.org/problems/flood-fill-algorithm/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 9**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Equilibrium point](https://practice.geeksforgeeks.org/problems/equilibrium-point/0)
+- [x] [Maximum Index](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
+- [x] [Inversion of array](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 10**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Check if Linked List is Palindrome](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1)
+- [x] [Nth node from end of linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
+- [x] [Remove loop in Linked List](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 11**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker/0)
+- [x] [Next larger element](https://practice.geeksforgeeks.org/problems/next-larger-element/0)
+- [x] [Get minimum element from stack](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 12**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
+- [x] [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
+- [ ] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+- [x] [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.\
+
+---
+
+### **Day 13**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Sum Tree](https://practice.geeksforgeeks.org/problems/sum-tree/1)
+- [ ] [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
+- [x] [Root to leaf path sum](https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
