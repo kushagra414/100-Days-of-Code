@@ -241,9 +241,9 @@
 **DSA :**
 > Data Structure(Compulsory)
 - [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
-- [ ] [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
+- [x] [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
 - [ ] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
-- [ ] [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1)
+- [x] [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Janmaijai
@@ -254,9 +254,9 @@
 #### Tasks
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [Sum Tree](https://practice.geeksforgeeks.org/problems/sum-tree/1)
-- [ ] [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
-- [ ] [Root to leaf path sum](https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)
+- [x] [Sum Tree](https://practice.geeksforgeeks.org/problems/sum-tree/1)
+- [x] [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
+- [x] [Root to leaf path sum](https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
@@ -269,10 +269,10 @@
 **DSA :**
 > Data Structure(Compulsory)
 - [ ] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
-- [ ] [Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor/0)
+- [x] [Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor/0)
 - [ ] [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
 - [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
 - [ ] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
-- [ ] [Root to leaf path sum](https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)
+- [x] [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.

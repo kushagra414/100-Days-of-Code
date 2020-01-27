@@ -93,7 +93,7 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Insert a node in a BST](https://practice.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1)
 > Algorithms(Optional)
 - [x] [Primes sum](https://practice.geeksforgeeks.org/problems/primes-sum/0)
-- [ ] [Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor/0)
+- [x] [Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
 
@@ -179,7 +179,16 @@ I will be participating in following Activities in 100 Days of Code.
 **DSA :**
 > Data Structure(Compulsory)
 - [x] [Sum Tree](https://practice.geeksforgeeks.org/problems/sum-tree/1)
-- [ ] [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
+- [x] [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
 - [x] [Root to leaf path sum](https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 14**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor/0)
+- [x] [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
