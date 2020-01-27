@@ -276,6 +276,7 @@
 - [x] [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
 
 ---
 
