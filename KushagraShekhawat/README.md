@@ -192,3 +192,28 @@ I will be participating in following Activities in 100 Days of Code.
 > Data Structure(Compulsory)
 - [x] [Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor/0)
 - [x] [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
+
+---
+
+### **Day 15**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
+- [x] [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
+- [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
+- [ ] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 16**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
+- [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)    ---> Leaving this problem as it requires high knowledge of **STL**, easier solution using Hashmaps in Java.
+- [x] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
