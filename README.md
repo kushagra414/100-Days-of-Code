@@ -298,8 +298,8 @@
 ### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
+- [x] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
 - [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
-- [ ] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+- [x] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.

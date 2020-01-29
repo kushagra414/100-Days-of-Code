@@ -192,6 +192,8 @@ I will be participating in following Activities in 100 Days of Code.
 > Data Structure(Compulsory)
 - [x] [Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor/0)
 - [x] [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
 
 ---
 
@@ -204,7 +206,7 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
 - [ ] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
 > GSOC
-- [ ] Work on some issues and try to fix them.
+- [x] Work on some issues and try to fix them.
 
 ---
 
@@ -216,4 +218,4 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)    ---> Leaving this problem as it requires high knowledge of **STL**, easier solution using Hashmaps in Java.
 - [x] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
 > GSOC
-- [ ] Work on some issues and try to fix them.
+- [x] Work on some issues and try to fix them.
