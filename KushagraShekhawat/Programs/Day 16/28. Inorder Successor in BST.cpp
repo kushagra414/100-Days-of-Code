@@ -7,7 +7,7 @@ struct Node
 	int data;
 	struct Node *left;
 	struct Node *right;
-
+	
 	Node(int x){
 	    data = x;
 	    left = NULL;
@@ -21,11 +21,11 @@ Node* search(Node* root, int key)
     // Base Cases: root is null or key is present at root
     if (root == NULL || root->data == key)
        return root;
-
+    
     // Key is greater than root's key
     if (root->data < key)
        return search(root->right, key);
-
+ 
     // Key is smaller than root's key
     return search(root->left, key);
 }
@@ -100,28 +100,30 @@ int data;
 Node * right, * left;
 };*/
 
-/* The below function should return the node which is
+/* The below function should return the node which is 
 inorder successor of given node x. */
+int flag=0;
+Node *successor=NULL;
 
-int found_x;
-void inOrderTraversal(Node *root, Node *x){
-    if(root == NULL)
+void InOrder(Node *root, Node *x){
+    if(root==NULL)
         return;
-    else{
-            printf("root->data : %d ",root->data);
-        inOrderTraversal(root->left,x);
-        if(root != NULL && root ==x)
-            found_x = 1;
-        inOrderTraversal(root->right,x);
-        if(found_x==1 && root != NULL){
-            printf("%d",root->data);
-            found_x = 0;
-        }
-        //printf("%d ",root->data);
+    if(successor!=NULL)
+        return;
+    InOrder(root->left,x);
+    if(flag&&successor==NULL){
+        successor=root;
+        return;
     }
+    if(root==x)
+        flag=1;
+    InOrder(root->right,x);
 }
 
 Node * inOrderSuccessor(Node *root, Node *x)
 {
-    inOrderTraversal(root, x);
+    successor=NULL,flag=0;
+    InOrder(root,x);
+    return successor;
 }
+
