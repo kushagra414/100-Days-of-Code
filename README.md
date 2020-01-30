@@ -310,8 +310,8 @@
 ### **Day 17**
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [Sorting Elements of an Array by Frequency](https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/0)
-- [ ] [Relative Sorting](https://practice.geeksforgeeks.org/problems/relative-sorting/0)
+- [x] [Sorting Elements of an Array by Frequency](https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/0)
+- [x] [Relative Sorting](https://practice.geeksforgeeks.org/problems/relative-sorting/0)
 - [ ] [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.

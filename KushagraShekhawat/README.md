@@ -219,3 +219,14 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
 > GSOC
 - [x] Work on some issues and try to fix them.
+
+---
+
+### **Day 17**
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Sorting Elements of an Array by Frequency](https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/0)
+- [x] [Relative Sorting](https://practice.geeksforgeeks.org/problems/relative-sorting/0)
+- [ ] [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
