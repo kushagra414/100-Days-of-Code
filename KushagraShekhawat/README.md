@@ -241,3 +241,14 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] [Boolean Matrix Problem](https://practice.geeksforgeeks.org/problems/boolean-matrix-problem/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 19**
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
+- [x] [Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms/0)
+- [x] [Maximum Index](https://practice.geeksforgeeks.org/problems/maximum-index/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
