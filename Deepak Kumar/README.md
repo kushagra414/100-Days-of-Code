@@ -26,11 +26,11 @@ I will be participating in following Activities in 100 Days of Code.
 #### Tasks
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0)
+- [x] [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0)
 - [x] [Missing number in array](https://practice.geeksforgeeks.org/problems/missing-number-in-array/0)
 - [x] [Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0)
 > Algorithms(Optional)
-- [ ] [Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)
+- [x] [Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)
 - [ ] [Majority Elementy](https://practice.geeksforgeeks.org/problems/majority-element/0)
 > GSOC
 - [ ] Find an Organisation to contrinute to, you can [this](https://docs.google.com/spreadsheets/d/1pAHnRLsRMe2AmXTWcy1QQ_IGwtIBPgymj2QQn1fZiUI/edit#gid=0) data to select an organisation.
@@ -46,8 +46,8 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
 - [x] [Detect Loop in linked list](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
 > Algorithms(Optional)
-- [ ] [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
-- [ ] [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0)
+- [x] [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
+- [x] [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
 
@@ -59,9 +59,9 @@ I will be participating in following Activities in 100 Days of Code.
 > Data Structure(Compulsory)
 - [X] [Immediate Smaller Element](https://practice.geeksforgeeks.org/problems/immediate-smaller-element/0)
 - [X] [Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1)
-- [ ] [Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
+- [x] [Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
 > Algorithms(Optional)
-- [ ] [Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1)
+- [x] [Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1)
 - [ ] [Recursively remove all adjacent duplicates](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
@@ -171,5 +171,95 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
 - [ ] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
 - [x] [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+
+### **Day 13**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Sum Tree](https://practice.geeksforgeeks.org/problems/sum-tree/1)
+- [x] [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
+- [x] [Root to leaf path sum](https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
+  
+
+---
+
+### **Day 14**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
+- [x] [Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor/0)
+- [ ] [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
+- [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
+- [ ] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+- [x] [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
+
+---
+
+### **Day 15**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
+- [x] [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
+- [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
+- [ ] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+> GSOC
+- [x] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
+
+---
+
+### **Day 16**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
+- [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
+- [x] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+> GSOC
+- [x] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
+
+---
+
+### **Day 17**
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Sorting Elements of an Array by Frequency](https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/0)
+- [x] [Relative Sorting](https://practice.geeksforgeeks.org/problems/relative-sorting/0)
+- [ ] [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak, Janmaijai
+
+---
+
+### **Day 18**
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Shortest Source to Destination Path](https://practice.geeksforgeeks.org/problems/shortest-source-to-destination-path/0)
+- [ ] [Path in Matrix](https://practice.geeksforgeeks.org/problems/path-in-matrix/0)
+- [ ] [Boolean Matrix Problem](https://practice.geeksforgeeks.org/problems/boolean-matrix-problem/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak, Janmaijai
+
+---
+
+### **Day 19**
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
+- [ ] [Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms/0)
+- [ ] [Maximum Index](https://practice.geeksforgeeks.org/problems/maximum-index/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
