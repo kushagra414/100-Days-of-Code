@@ -30,7 +30,7 @@ int main(){
 }
 
 int FindMinPath(int M, int N, int array[][M], int x, int y){
-        if(x<0 || y<0)
+        if(x<0 || y<0 || x>=N || y>=M)
             return -1;
         if(foundMinPath==1 || foundMinPath== -1){
                 return 0;
@@ -55,13 +55,11 @@ int FindMinPath(int M, int N, int array[][M], int x, int y){
             foundZero=FindMinPath(M,N,array,x,y+1);
             if(foundZero==0)
                 minPath++;
-            }
-        if(foundZero==-1){
             printf("Go Bottom, x: %d and y: %d and minPath : %d\n",x,y,minPath);
             foundZero=FindMinPath(M,N,array,x+1,y);
             if(foundZero==0)
                 minPath++;
-        }
+            }
         if(x==0&&y==0&&foundMinPath==0){
                 foundMinPath=1;
             return 0;

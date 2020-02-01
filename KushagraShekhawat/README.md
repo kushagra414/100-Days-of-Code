@@ -230,3 +230,14 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 18**
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Shortest Source to Destination Path](https://practice.geeksforgeeks.org/problems/shortest-source-to-destination-path/0)
+- [ ] [Path in Matrix](https://practice.geeksforgeeks.org/problems/path-in-matrix/0)
+- [ ] [Boolean Matrix Problem](https://practice.geeksforgeeks.org/problems/boolean-matrix-problem/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.

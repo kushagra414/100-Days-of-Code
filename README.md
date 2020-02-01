@@ -322,8 +322,20 @@
 ### **Day 18**
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [Shortest Source to Destination Path](https://practice.geeksforgeeks.org/problems/shortest-source-to-destination-path/0)
+- [x] [Shortest Source to Destination Path](https://practice.geeksforgeeks.org/problems/shortest-source-to-destination-path/0)
 - [ ] [Path in Matrix](https://practice.geeksforgeeks.org/problems/path-in-matrix/0)
 - [ ] [Boolean Matrix Problem](https://practice.geeksforgeeks.org/problems/boolean-matrix-problem/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak, Janmaijai
+
+---
+
+### **Day 19**
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
+- [ ] [Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms/0)
+- [ ] [Maximum Index](https://practice.geeksforgeeks.org/problems/maximum-index/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
