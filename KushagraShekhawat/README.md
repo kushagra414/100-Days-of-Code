@@ -226,8 +226,8 @@ I will be participating in following Activities in 100 Days of Code.
 **DSA :**
 > Data Structure(Compulsory)
 - [x] [Sorting Elements of an Array by Frequency](https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/0)
-- [x] [Relative Sorting](https://practice.geeksforgeeks.org/problems/relative-sorting/0)  -----> Cannot understand the problem  :confused:
-- [ ] [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
+- [x] [Relative Sorting](https://practice.geeksforgeeks.org/problems/relative-sorting/0)
+- [ ] [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1)  -----> Cannot understand the problem  :confused:
 > GSOC
 - [ ] Work on some issues and try to fix them.
 
