@@ -121,5 +121,54 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] [Inversion of array](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+
+### **Day 13**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Sum Tree](https://practice.geeksforgeeks.org/problems/sum-tree/1)
+- [X] [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
+- [ ] [Root to leaf path sum](https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Janmaijai,Deepak
+
+### **Day 14**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+**DSA :**
+> Data Structure(Compulsory)
+- [X] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
+- [X] [Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor/0)
+- [ ] [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
+- [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
+- [ ] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+- [ ] [Root to leaf path sum](https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+ 
+
+### **Day 15**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+**DSA :**
+> Data Structure(Compulsory)
+- [X] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
+- [X] [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
+- [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
+- [X] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 16**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
+- [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
+- [x] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+
       
 

@@ -93,7 +93,7 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Insert a node in a BST](https://practice.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1)
 > Algorithms(Optional)
 - [x] [Primes sum](https://practice.geeksforgeeks.org/problems/primes-sum/0)
-- [ ] [Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor/0)
+- [x] [Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
 
@@ -156,5 +156,88 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker/0)
 - [x] [Next larger element](https://practice.geeksforgeeks.org/problems/next-larger-element/0)
 - [x] [Get minimum element from stack](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 12**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
+- [x] [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
+- [ ] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+- [x] [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.\
+
+---
+
+### **Day 13**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Sum Tree](https://practice.geeksforgeeks.org/problems/sum-tree/1)
+- [x] [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
+- [x] [Root to leaf path sum](https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 14**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor/0)
+- [x] [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 15**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
+- [x] [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
+- [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
+- [ ] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+> GSOC
+- [x] Work on some issues and try to fix them.
+
+---
+
+### **Day 16**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
+- [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)    ---> Leaving this problem as it requires high knowledge of **STL**, easier solution using Hashmaps in Java.
+- [x] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+> GSOC
+- [x] Work on some issues and try to fix them.
+
+---
+
+### **Day 17**
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Sorting Elements of an Array by Frequency](https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/0)
+- [x] [Relative Sorting](https://practice.geeksforgeeks.org/problems/relative-sorting/0)
+- [ ] [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1)  -----> Cannot understand the problem  :confused:
+> GSOC
+- [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 18**
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Shortest Source to Destination Path](https://practice.geeksforgeeks.org/problems/shortest-source-to-destination-path/0)
+- [ ] [Path in Matrix](https://practice.geeksforgeeks.org/problems/path-in-matrix/0)
+- [ ] [Boolean Matrix Problem](https://practice.geeksforgeeks.org/problems/boolean-matrix-problem/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
