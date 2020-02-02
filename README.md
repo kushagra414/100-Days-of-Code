@@ -343,7 +343,7 @@
 
 ---
 
-### **Day 19**
+### **Day 20**
 **DSA :**
 > Data Structure(Compulsory)
 - [ ] [Delete without head pointer](https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1)
