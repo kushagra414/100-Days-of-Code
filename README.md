@@ -351,3 +351,14 @@
 - [x] [Intersection Point in Y Shaped Linked Lists](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 21**
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Infix to Postfix ](https://practice.geeksforgeeks.org/problems/infix-to-postfix/0)
+- [ ] [The Celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1)
+- [ ] [ Maximum Rectangular Area in a Histogram ](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
