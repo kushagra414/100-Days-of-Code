@@ -252,3 +252,14 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Maximum Index](https://practice.geeksforgeeks.org/problems/maximum-index/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 20**
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Delete without head pointer](https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1)
+- [x] [Reverse a Linked List in groups of given size](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)
+- [x] [Intersection Point in Y Shaped Linked Lists](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
