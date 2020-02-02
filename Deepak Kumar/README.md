@@ -83,6 +83,23 @@ I will be participating in following Activities in 100 Days of Code.
 
 ---
 
+### **Day 5**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
+- [ ] [Left View of Binary Tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1)
+- [ ] [Print all nodes that don't have sibling](https://practice.geeksforgeeks.org/problems/print-all-nodes-that-dont-have-sibling/1)
+- [ ] [Determine if Two Trees are Identical](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1)
+> Algorithms(Optional)
+- [ ] [Finding the numbers](https://practice.geeksforgeeks.org/problems/finding-the-numbers/0)
+- [ ] [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+> **IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Deepak
+
+---
+
 ### **Day 6**
 #### Tasks
 **DSA :**
@@ -261,5 +278,16 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
 - [ ] [Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms/0)
 - [ ] [Maximum Index](https://practice.geeksforgeeks.org/problems/maximum-index/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 20**
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Delete without head pointer](https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1)
+- [ ] [Reverse a Linked List in groups of given size](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)
+- [ ] [Intersection Point in Y Shaped Linked Lists](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
