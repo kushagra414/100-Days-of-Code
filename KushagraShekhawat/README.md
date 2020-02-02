@@ -241,3 +241,25 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] [Boolean Matrix Problem](https://practice.geeksforgeeks.org/problems/boolean-matrix-problem/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 19**
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
+- [x] [Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms/0)
+- [x] [Maximum Index](https://practice.geeksforgeeks.org/problems/maximum-index/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 20**
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Delete without head pointer](https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1)
+- [x] [Reverse a Linked List in groups of given size](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)
+- [x] [Intersection Point in Y Shaped Linked Lists](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
