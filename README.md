@@ -363,6 +363,7 @@
 - [x] [ Maximum Rectangular Area in a Histogram ](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai, Deepak
 
 ---
 
