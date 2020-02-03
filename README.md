@@ -351,6 +351,7 @@
 - [x] [Intersection Point in Y Shaped Linked Lists](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai
 
 ---
 
