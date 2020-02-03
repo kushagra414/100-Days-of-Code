@@ -358,8 +358,19 @@
 ### **Day 21**
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [Infix to Postfix ](https://practice.geeksforgeeks.org/problems/infix-to-postfix/0)
-- [ ] [The Celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1)
-- [ ] [ Maximum Rectangular Area in a Histogram ](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0)
+- [x] [Infix to Postfix ](https://practice.geeksforgeeks.org/problems/infix-to-postfix/0)
+- [x] [The Celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1)
+- [x] [ Maximum Rectangular Area in a Histogram ](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 22**
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Min sum formed by digits](https://practice.geeksforgeeks.org/problems/min-sum-formed-by-digits/0)
+- [ ] [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)
+- [ ] [Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
