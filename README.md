@@ -370,7 +370,7 @@
 ### **Day 22**
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [Min sum formed by digits](https://practice.geeksforgeeks.org/problems/min-sum-formed-by-digits/0)
+- [ ] [Count the Reversals](https://practice.geeksforgeeks.org/problems/count-the-reversals/0)
 - [ ] [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)
 - [ ] [Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges/0)
 > GSOC
