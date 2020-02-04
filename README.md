@@ -370,8 +370,19 @@
 ### **Day 22**
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [Count the Reversals](https://practice.geeksforgeeks.org/problems/count-the-reversals/0)
+- [x] [Count the Reversals](https://practice.geeksforgeeks.org/problems/count-the-reversals/0)
 - [ ] [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)
 - [ ] [Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 23**
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Count subsequences of type a^i, b^j, c^k](https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck4425/1)
+- [ ] [Clone a Binary Tree](https://practice.geeksforgeeks.org/problems/clone-a-binary-tree/1)
+- [ ] [Trie | (Insert and Search)](https://practice.geeksforgeeks.org/problems/trie-insert-and-search/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
