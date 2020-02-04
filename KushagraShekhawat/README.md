@@ -274,3 +274,14 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [ Maximum Rectangular Area in a Histogram ](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 22**
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Count the Reversals](https://practice.geeksforgeeks.org/problems/count-the-reversals/0)
+- [ ] [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)
+- [ ] [Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
