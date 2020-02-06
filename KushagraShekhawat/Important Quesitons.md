@@ -14,5 +14,6 @@
 14. [Maximum Rectangular Area in a Histogram ](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0)
 15. [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)
 16. [Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges/0)
+17. [Delete a node from BST](https://practice.geeksforgeeks.org/problems/delete-a-node-from-bst/1)
 
 

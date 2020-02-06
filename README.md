@@ -394,7 +394,7 @@
 ### **Day 24**
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [Delete a node from BST](https://practice.geeksforgeeks.org/problems/delete-a-node-from-bst/1)
+- [x] [Delete a node from BST](https://practice.geeksforgeeks.org/problems/delete-a-node-from-bst/1)
 - [ ] [Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1)
 - [ ] [Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1)
 > GSOC

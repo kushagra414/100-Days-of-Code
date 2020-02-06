@@ -296,3 +296,14 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Trie | (Insert and Search)](https://practice.geeksforgeeks.org/problems/trie-insert-and-search/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 25**
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Delete a node from BST](https://practice.geeksforgeeks.org/problems/delete-a-node-from-bst/1)
+- [ ] [Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1)
+- [ ] [Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
