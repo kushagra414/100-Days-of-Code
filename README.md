@@ -35,7 +35,8 @@
 | Janmaijai Rana                 |YES   |YES     |
 | Vaibhav Kumar                  |YES   |NO      |
 | Dhruv Yadav                    |YES   |NO      |
-|Shashwat Shukla                 |YES   |TRY     |
+| Shashwat Shukla                |YES   |TRY     |
+| Deepak Kumar                   |YES   |TRY     |
 > 100 Days of Code will start from 13/01/2020
 
 ---
