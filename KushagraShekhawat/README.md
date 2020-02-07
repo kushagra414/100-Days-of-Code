@@ -263,3 +263,47 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Intersection Point in Y Shaped Linked Lists](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 21**
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Infix to Postfix ](https://practice.geeksforgeeks.org/problems/infix-to-postfix/0)
+- [x] [The Celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1)
+- [x] [ Maximum Rectangular Area in a Histogram ](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 22**
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Count the Reversals](https://practice.geeksforgeeks.org/problems/count-the-reversals/0)
+- [ ] [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)
+- [ ] [Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 23**
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Count subsequences of type a^i, b^j, c^k](https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck4425/1)
+- [x] [Clone a Binary Tree](https://practice.geeksforgeeks.org/problems/clone-a-binary-tree/1)
+- [x] [Trie | (Insert and Search)](https://practice.geeksforgeeks.org/problems/trie-insert-and-search/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 25**
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Delete a node from BST](https://practice.geeksforgeeks.org/problems/delete-a-node-from-bst/1)
+- [ ] [Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1)
+- [ ] [Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
