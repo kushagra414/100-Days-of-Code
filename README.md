@@ -425,6 +425,8 @@
 - [ ] [Count subsequences of type a^i, b^j, c^k](https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck4425/1)
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai
 
+---
+
 ### **Day 27**
 ### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
 - [ ] [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)
