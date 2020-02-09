@@ -419,7 +419,19 @@
 
 ### **Day 26**
 ### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
-- [ ] [Path in Matrix](https://practice.geeksforgeeks.org/problems/path-in-matrix/0)
+- [x] [Path in Matrix](https://practice.geeksforgeeks.org/problems/path-in-matrix/0)
 - [ ] [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)
-- [ ] [Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges/0)
+- [x] [Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges/0)
 - [ ] [Count subsequences of type a^i, b^j, c^k](https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck4425/1)
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai
+
+---
+
+### **Day 27**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+- [ ] [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)
+- [ ] [Count subsequences of type a^i, b^j, c^k](https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck4425/1)
+- [ ] Learn MinHeap and MaxHeap.
+- [ ] Learn Graph Traversal Methods.
+> GSOC
+- [ ] Work on some issues and try to fix them.
