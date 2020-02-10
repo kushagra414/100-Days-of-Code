@@ -339,3 +339,14 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] Learn Graph Traversal Methods.
 > GSOC
 - [x] Work on some issues and try to fix them.
+
+---
+
+### **Day 28**
+**DSA :**
+- [x] [Binary Heap Operations](https://practice.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
+- [x] [Heap Sort](https://practice.geeksforgeeks.org/problems/heap-sort/1)
+- [x] [Rearrange characters](https://practice.geeksforgeeks.org/problems/rearrange-characters/0)
+- [ ] Learn Graph Traversal Methods.
+> GSOC
+- [x] Work on some issues and try to fix them.
