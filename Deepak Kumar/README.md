@@ -146,9 +146,9 @@ I will be participating in following Activities in 100 Days of Code.
 #### Tasks
 **DSA :**
 > Data Structure(Compulsory)
-- [x] [Equilibrium point](https://practice.geeksforgeeks.org/problems/equilibrium-point/0)
-- [x] [Maximum Index](https://practice.geeksforgeeks.org/problems/maximum-index/0)
-- [x] [Inversion of array](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
+- [ ] [Equilibrium point](https://practice.geeksforgeeks.org/problems/equilibrium-point/0)
+- [ ] [Maximum Index](https://practice.geeksforgeeks.org/problems/maximum-index/0)
+- [ ] [Inversion of array](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
 > **IDIOT BOX** : Dhruv, Vaibhav, Deepak, Shashwat
@@ -186,7 +186,7 @@ I will be participating in following Activities in 100 Days of Code.
 > Data Structure(Compulsory)
 - [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
 - [x] [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
-- [ ] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+- [x] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
 - [x] [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
@@ -195,9 +195,9 @@ I will be participating in following Activities in 100 Days of Code.
 #### Tasks
 **DSA :**
 > Data Structure(Compulsory)
-- [x] [Sum Tree](https://practice.geeksforgeeks.org/problems/sum-tree/1)
+- [ ] [Sum Tree](https://practice.geeksforgeeks.org/problems/sum-tree/1)
 - [x] [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
-- [x] [Root to leaf path sum](https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)
+- [ ] [Root to leaf path sum](https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
@@ -210,10 +210,10 @@ I will be participating in following Activities in 100 Days of Code.
 **DSA :**
 > Data Structure(Compulsory)
 - [ ] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
-- [x] [Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor/0)
+- [ ] [Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor/0)
 - [ ] [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
 - [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
-- [ ] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+- [x] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
 - [x] [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
@@ -226,11 +226,11 @@ I will be participating in following Activities in 100 Days of Code.
 **DSA :**
 > Data Structure(Compulsory)
 - [ ] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
-- [x] [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
+- [ ] [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
 - [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
-- [ ] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+- [x] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
 > GSOC
-- [x] Work on some issues and try to fix them.
+- [ ] Work on some issues and try to fix them.
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
 
 ---
@@ -239,11 +239,11 @@ I will be participating in following Activities in 100 Days of Code.
 ### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
 **DSA :**
 > Data Structure(Compulsory)
-- [x] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
+- [ ] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
 - [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
 - [x] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
 > GSOC
-- [x] Work on some issues and try to fix them.
+- [ ] Work on some issues and try to fix them.
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
 
 ---
@@ -361,3 +361,14 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)
 - [ ] [Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges/0)
 - [ ] [Count subsequences of type a^i, b^j, c^k](https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck4425/1)
+
+---
+
+### **Day 27**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+- [ ] [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)
+- [ ] [Count subsequences of type a^i, b^j, c^k](https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck4425/1)
+- [ ] Learn MinHeap and MaxHeap.
+- [ ] Learn Graph Traversal Methods.
+> GSOC
+- [ ] Work on some issues and try to fix them.
