@@ -429,9 +429,33 @@
 
 ### **Day 27**
 ### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
-- [ ] [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)
+- [x] [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)
 - [ ] [Count subsequences of type a^i, b^j, c^k](https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck4425/1)
-- [ ] Learn MinHeap and MaxHeap.
+- [x] Learn MinHeap and MaxHeap.
 - [ ] Learn Graph Traversal Methods.
 > GSOC
-- [ ] Work on some issues and try to fix them.
+- [x] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai
+
+---
+
+### **Day 28**
+**DSA :**
+- [x] [Binary Heap Operations](https://practice.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
+- [x] [Heap Sort](https://practice.geeksforgeeks.org/problems/heap-sort/1)
+- [x] [Rearrange characters](https://practice.geeksforgeeks.org/problems/rearrange-characters/0)
+- [ ] Learn Graph Traversal Methods.
+> GSOC
+- [x] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai
+
+---
+
+### **Day 29**
+**DSA :**
+- [x] [Longest consecutive subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0)
+- [x] [Array Pair Sum Divisibility Problem](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem/0)
+- [x] [Find all four sum numbers](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0)
+- [ ] Learn Graph Traversal Methods.
+> GSOC
+- [x] Work on some issues and try to fix them.
