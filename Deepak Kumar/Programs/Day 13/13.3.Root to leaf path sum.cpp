@@ -4,22 +4,20 @@ using namespace std;
 
 /* A binary tree node has data, pointer to left child
    and a pointer to right child */
-struct Node {
-    int data;
-    Node* right;
-    Node* left;
-    
-    Node(int x){
-        data = x;
-        right = NULL;
-        left = NULL;
-    }
+struct Node
+{
+	int data;
+	struct Node *left;
+	struct Node *right;
+	
+	Node(int x){
+	    data = x;
+	    left = NULL;
+	    right = NULL;
+	}
 };
 
-/* Returns true if the given tree is a binary search tree
- (efficient version). */
-bool isBST(struct Node* node);
-int isBSTUtil(struct Node* node, int min, int max);
+bool hasPathSum(Node *, int );
 
 /* Driver program to test size function*/
 int main()
@@ -33,6 +31,12 @@ int main()
      int n;
      scanf("%d\n",&n);
      struct Node *root = NULL;
+     if(n==1)
+     {
+        int a;
+        cin>>a;
+        cout<<a<<endl;
+     }else{
      while (n--)
      {
         Node *parent;
@@ -57,36 +61,43 @@ int main()
           parent->right = child;
         m[n2]  = child;
      }
+     int a;
+     cin>>a;
 
-     cout << isBST(root) << endl;
+     cout<<hasPathSum(root,a)<<endl;
+
+  }
   }
   return 0;
 }
 // } Driver Code Ends
-/* A binary tree node has data, pointer to left child
-   and a pointer to right child  
-struct Node {
+/* A binary tree node
+struct Node
+{
     int data;
-    Node* right;
-    Node* left;
-    
-    Node(int x){
-        data = x;
-        right = NULL;
-        left = NULL;
-    }
+    Node* left, * right;
 }; */
 
-int isBSTutil(struct Node *node,int min,int max){
+
+/*you are required to 
+complete this function */
+bool hasPathSum(Node *node, int sum)
+{
     if(node==NULL){
-        return 1;
-    }
-    if(node->data<min || node->data>max){
         return 0;
     }
-    return(isBSTutil(node->left,min,node->data-1) && isBSTutil(node->right,node->data+1,max));
-}
-
-bool isBST(Node* root) {
-    return(isBSTutil(root,INT_MIN,INT_MAX));
+    else{
+        int ans=0;
+        int subsum = sum - node->data;
+        if(subsum==0 && node->left==NULL && node->right==NULL){
+            return 1;
+        }
+        if(node->left){
+            ans=(ans || hasPathSum(node->left,subsum));
+        }
+        if(node->right){
+            ans=(ans || hasPathSum(node->right,subsum));
+        }
+        return ans;
+    }
 }
