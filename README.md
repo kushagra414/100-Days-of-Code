@@ -453,9 +453,9 @@
 
 ### **Day 29**
 **DSA :**
-- [ ] [Longest consecutive subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0)
-- [ ] [Array Pair Sum Divisibility Problem](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem/0)
-- [ ] [Find all four sum numbers](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0)
+- [x] [Longest consecutive subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0)
+- [x] [Array Pair Sum Divisibility Problem](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem/0)
+- [x] [Find all four sum numbers](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0)
 - [ ] Learn Graph Traversal Methods.
 > GSOC
-- [ ] Work on some issues and try to fix them.
+- [x] Work on some issues and try to fix them.

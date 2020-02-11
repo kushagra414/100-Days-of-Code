@@ -350,3 +350,14 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] Learn Graph Traversal Methods.
 > GSOC
 - [x] Work on some issues and try to fix them.
+
+---
+
+### **Day 29**
+**DSA :**
+- [x] [Longest consecutive subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0)
+- [x] [Array Pair Sum Divisibility Problem](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem/0)
+- [x] [Find all four sum numbers](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0)
+- [ ] Learn Graph Traversal Methods.
+> GSOC
+- [x] Work on some issues and try to fix them.
