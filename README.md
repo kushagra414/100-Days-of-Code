@@ -476,11 +476,16 @@
 ---
 
 Hello Guys,<br>
+<br>
 Those of you who have completed 30 days of code successfully, Congratulations are in order :clap: :tada: :checkered_flag: :beers: :triangular_flag_on_post:<br>
+<br>
 Take some time and reflect on your Achievement.<br>
+<br>
 How much have you learned in this month of coding, Compare yourself from your past 1 month.<br>
-You need to keep on pushing yourself and create new limits everyday, Make yourself better than your past.<br>
-Finally, There is a long road ahead **Keep on Grinding** :muscle: .<br>
+<br>
+You need to keep on pushing yourself and create new limits every day, Make yourself better than your past.<br>
+<br>
+Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 
 ---
 
