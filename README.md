@@ -463,7 +463,7 @@
 
 ---
 
-### **Day 29**
+### **Day 30**
 **DSA :**
 - [ ] [Rat in a Maze Problem](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
 - [ ] [Find whether path exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0)
