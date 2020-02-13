@@ -35,7 +35,8 @@
 | Janmaijai Rana                 |YES   |YES     |
 | Vaibhav Kumar                  |YES   |NO      |
 | Dhruv Yadav                    |YES   |NO      |
-|Shashwat Shukla                 |YES   |TRY     |
+| Shashwat Shukla                |YES   |TRY     |
+| Deepak Kumar                   |YES   |TRY     |
 > 100 Days of Code will start from 13/01/2020
 
 ---
@@ -177,7 +178,7 @@
 - [x] [Find all pairs with a given sum](https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0)
 - [x] [Common elements](https://practice.geeksforgeeks.org/problems/common-elements/0)
 > Optional
-- [ ] [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
+- [x] [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
 > **IDIOT BOX** : Dhruv, Vaibhav
@@ -223,12 +224,276 @@
 
 ---
 
-### **Day 10**
+### **Day 11**
 #### Tasks
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker/0)
-- [ ] [Next larger element](https://practice.geeksforgeeks.org/problems/next-larger-element/0)
-- [ ] [Get minimum element from stack](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1)
+- [x] [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker/0)
+- [x] [Next larger element](https://practice.geeksforgeeks.org/problems/next-larger-element/0)
+- [x] [Get minimum element from stack](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Janmaijai
+
+---
+
+### **Day 12**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
+- [x] [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
+- [ ] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+- [x] [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Janmaijai
+
+---
+
+### **Day 13**
+#### Tasks
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Sum Tree](https://practice.geeksforgeeks.org/problems/sum-tree/1)
+- [x] [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
+- [x] [Root to leaf path sum](https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
+  
+
+---
+
+### **Day 14**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
+- [x] [Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor/0)
+- [ ] [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
+- [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
+- [ ] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+- [x] [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
+
+---
+
+### **Day 15**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
+- [x] [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
+- [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
+- [ ] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+> GSOC
+- [x] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
+
+---
+
+### **Day 16**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
+- [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
+- [x] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+> GSOC
+- [x] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
+
+---
+
+### **Day 17**
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Sorting Elements of an Array by Frequency](https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/0)
+- [x] [Relative Sorting](https://practice.geeksforgeeks.org/problems/relative-sorting/0)
+- [ ] [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak, Janmaijai
+
+---
+
+### **Day 18**
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Shortest Source to Destination Path](https://practice.geeksforgeeks.org/problems/shortest-source-to-destination-path/0)
+- [ ] [Path in Matrix](https://practice.geeksforgeeks.org/problems/path-in-matrix/0)
+- [ ] [Boolean Matrix Problem](https://practice.geeksforgeeks.org/problems/boolean-matrix-problem/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak, Janmaijai
+
+---
+
+### **Day 19**
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
+- [x] [Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms/0)
+- [x] [Maximum Index](https://practice.geeksforgeeks.org/problems/maximum-index/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai
+
+---
+
+### **Day 20**
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Delete without head pointer](https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1)
+- [x] [Reverse a Linked List in groups of given size](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)
+- [x] [Intersection Point in Y Shaped Linked Lists](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai
+
+---
+
+### **Day 21**
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Infix to Postfix ](https://practice.geeksforgeeks.org/problems/infix-to-postfix/0)
+- [x] [The Celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1)
+- [x] [Maximum Rectangular Area in a Histogram ](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai, Deepak
+
+---
+
+### **Day 22**
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Count the Reversals](https://practice.geeksforgeeks.org/problems/count-the-reversals/0)
+- [ ] [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)
+- [ ] [Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai, Deepak
+
+---
+
+### **Day 23**
+**DSA :**
+> Data Structure(Compulsory)
+- [ ] [Count subsequences of type a^i, b^j, c^k](https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck4425/1)
+- [x] [Clone a Binary Tree](https://practice.geeksforgeeks.org/problems/clone-a-binary-tree/1)
+- [x] [Trie | (Insert and Search)](https://practice.geeksforgeeks.org/problems/trie-insert-and-search/0)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai, Deepak
+
+---
+
+### **Day 24**
+**DSA :**
+> Data Structure(Compulsory)
+- [x] [Delete a node from BST](https://practice.geeksforgeeks.org/problems/delete-a-node-from-bst/1)
+- [ ] [Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1)
+- [ ] [Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai, Deepak
+
+---
+
+### **Day 25**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+- [ ] [Path in Matrix](https://practice.geeksforgeeks.org/problems/path-in-matrix/0)
+- [x] [Boolean Matrix Problem](https://practice.geeksforgeeks.org/problems/boolean-matrix-problem/0)
+- [ ] [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)
+- [ ] [Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges/0)
+- [ ] [Count subsequences of type a^i, b^j, c^k](https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck4425/1)
+- [x] [Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1)
+- [x] [Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1)
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai
+
+---
+
+### **Day 26**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+- [x] [Path in Matrix](https://practice.geeksforgeeks.org/problems/path-in-matrix/0)
+- [ ] [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)
+- [x] [Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges/0)
+- [ ] [Count subsequences of type a^i, b^j, c^k](https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck4425/1)
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai
+
+---
+
+### **Day 27**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+- [x] [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)
+- [ ] [Count subsequences of type a^i, b^j, c^k](https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck4425/1)
+- [x] Learn MinHeap and MaxHeap.
+- [ ] Learn Graph Traversal Methods.
+> GSOC
+- [x] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai
+
+---
+
+### **Day 28**
+**DSA :**
+- [x] [Binary Heap Operations](https://practice.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
+- [x] [Heap Sort](https://practice.geeksforgeeks.org/problems/heap-sort/1)
+- [x] [Rearrange characters](https://practice.geeksforgeeks.org/problems/rearrange-characters/0)
+- [ ] Learn Graph Traversal Methods.
+> GSOC
+- [x] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai
+
+---
+
+### **Day 29**
+**DSA :**
+- [x] [Longest consecutive subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0)
+- [x] [Array Pair Sum Divisibility Problem](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem/0)
+- [x] [Find all four sum numbers](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0)
+- [ ] Learn Graph Traversal Methods.
+> GSOC
+- [x] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai
+
+---
+
+### **Day 30**
+**DSA :**
+- [x] [Rat in a Maze Problem](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
+- [ ] [Find whether path exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0)
+- [x] [Row with max 1s](https://practice.geeksforgeeks.org/problems/row-with-max-1s/0)
+- [ ] Learn Graph Traversal Methods.
+> GSOC
+- [x] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai
+
+---
+
+Hello Guys,<br>
+<br>
+Those of you who have completed 30 days of code successfully, Congratulations are in order :clap: :tada: :checkered_flag: :beers: :triangular_flag_on_post:<br>
+<br>
+Take some time and reflect on your Achievement.<br>
+<br>
+How much have you learned in this month of coding, Compare yourself from your past 1 month.<br>
+<br>
+You need to keep on pushing yourself and create new limits every day, Make yourself better than your past.<br>
+<br>
+Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
+
+---
+
+### **Day 31**
+**DSA :**
+- [ ] [Find Missing And Repeating](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating/0)
+- [ ] [Stock buy and sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0)
+- [ ] [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
+- [ ] Learn Graph Traversal Methods.
 > GSOC
 - [ ] Work on some issues and try to fix them.
