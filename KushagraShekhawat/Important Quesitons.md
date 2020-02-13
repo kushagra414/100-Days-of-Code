@@ -1,0 +1,21 @@
+1. [Next larger element](https://practice.geeksforgeeks.org/problems/next-larger-element/0)
+2. [Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor/0)
+3. [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
+4. [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
+5. [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+6. [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
+7. [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
+8. [Valid Substring](https://practice.geeksforgeeks.org/problems/valid-substring/0)
+9.  [Shortest Source to Destination Path](https://practice.geeksforgeeks.org/problems/shortest-source-to-destination-path/0)
+10. [Remove loop in Linked List ](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
+11. [Activity Selection](https://practice.geeksforgeeks.org/problems/activity-selection/0)
+12. [Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms/0)
+13. [The Celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1)
+14. [Maximum Rectangular Area in a Histogram ](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0)
+15. [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)
+16. [Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges/0)
+17. [Delete a node from BST](https://practice.geeksforgeeks.org/problems/delete-a-node-from-bst/1)
+18. [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)   ----> Very Imp
+19. [Find all four sum numbers](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0)
+
+
