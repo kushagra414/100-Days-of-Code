@@ -361,3 +361,14 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] Learn Graph Traversal Methods.
 > GSOC
 - [x] Work on some issues and try to fix them.
+
+---
+
+### **Day 30**
+**DSA :**
+- [x] [Rat in a Maze Problem](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
+- [ ] [Find whether path exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0)
+- [x] [Row with max 1s](https://practice.geeksforgeeks.org/problems/row-with-max-1s/0)
+- [ ] Learn Graph Traversal Methods.
+> GSOC
+- [x] Work on some issues and try to fix them.

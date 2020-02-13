@@ -459,3 +459,41 @@
 - [ ] Learn Graph Traversal Methods.
 > GSOC
 - [x] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai
+
+---
+
+### **Day 30**
+**DSA :**
+- [x] [Rat in a Maze Problem](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
+- [ ] [Find whether path exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0)
+- [x] [Row with max 1s](https://practice.geeksforgeeks.org/problems/row-with-max-1s/0)
+- [ ] Learn Graph Traversal Methods.
+> GSOC
+- [x] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai
+
+---
+
+Hello Guys,<br>
+<br>
+Those of you who have completed 30 days of code successfully, Congratulations are in order :clap: :tada: :checkered_flag: :beers: :triangular_flag_on_post:<br>
+<br>
+Take some time and reflect on your Achievement.<br>
+<br>
+How much have you learned in this month of coding, Compare yourself from your past 1 month.<br>
+<br>
+You need to keep on pushing yourself and create new limits every day, Make yourself better than your past.<br>
+<br>
+Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
+
+---
+
+### **Day 31**
+**DSA :**
+- [ ] [Find Missing And Repeating](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating/0)
+- [ ] [Stock buy and sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0)
+- [ ] [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
+- [ ] Learn Graph Traversal Methods.
+> GSOC
+- [ ] Work on some issues and try to fix them.
