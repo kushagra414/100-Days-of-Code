@@ -170,6 +170,7 @@ I will be participating in following Activities in 100 Days of Code.
 > GSOC
 - [ ] Work on some issues and try to fix them.
 
+---
 
 ### **Day 31**
 **DSA :**
@@ -178,5 +179,36 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
 - [ ] Learn Graph Traversal Methods.
 > GSOC
-- [ ] Work on some issues and try to fix them.      
+- [ ] Work on some issues and try to fix them.  
+
+
+### **Day 32**
+**DSA :**
+- [X] [Clone a linked list with next and random pointer](https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1)
+- [ ] [Flattening a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1)
+- [ ] [Delete nodes having greater value on right](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1)
+> GSOC
+- [x] Work on some issues and try to fix them.
+
+---
+
+### **Day 33**
+**DSA :**
+- [X] [Special Stack](https://practice.geeksforgeeks.org/problems/special-stack/1)
+- [ ] [Get min at pop](https://practice.geeksforgeeks.org/problems/get-min-at-pop/1)
+- [ ] [Reverse a string using Stack](https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 34**
+**DSA :**
+- [ ] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)
+- [ ] [Make Binary Tree From Linked List](https://practice.geeksforgeeks.org/problems/make-binary-tree/1)
+- [ ] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
+- [ ] [Queue Operations](https://practice.geeksforgeeks.org/problems/queue-operations/1)
+- [ ] [Deque Implementations](https://practice.geeksforgeeks.org/problems/deque-implementations/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
 
