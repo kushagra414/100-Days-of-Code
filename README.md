@@ -491,9 +491,30 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 
 ### **Day 31**
 **DSA :**
-- [ ] [Find Missing And Repeating](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating/0)
-- [ ] [Stock buy and sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0)
+- [x] [Find Missing And Repeating](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating/0)
+- [x] [Stock buy and sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0)
 - [ ] [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
 - [ ] Learn Graph Traversal Methods.
+> GSOC
+- [x] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav
+
+---
+
+### **Day 32**
+**DSA :**
+- [ ] [Clone a linked list with next and random pointer](https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1)
+- [x] [Flattening a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1)
+- [ ] [Delete nodes having greater value on right](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1)
+> GSOC
+- [x] Work on some issues and try to fix them.
+
+---
+
+### **Day 33**
+**DSA :**
+- [ ] [Special Stack](https://practice.geeksforgeeks.org/problems/special-stack/1)
+- [ ] [Get min at pop](https://practice.geeksforgeeks.org/problems/get-min-at-pop/1)
+- [ ] [Reverse a string using Stack](https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
