@@ -309,7 +309,7 @@ I will be participating in following Activities in 100 Days of Code.
 ### **Day 22**
 **DSA :**
 > Data Structure(Compulsory)
-- [x] [Count the Reversals](https://practice.geeksforgeeks.org/problems/count-the-reversals/0)
+- [ ] [Count the Reversals](https://practice.geeksforgeeks.org/problems/count-the-reversals/0)
 - [ ] [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)
 - [ ] [Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges/0)
 > GSOC
@@ -322,8 +322,8 @@ I will be participating in following Activities in 100 Days of Code.
 **DSA :**
 > Data Structure(Compulsory)
 - [ ] [Count subsequences of type a^i, b^j, c^k](https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck4425/1)
-- [x] [Clone a Binary Tree](https://practice.geeksforgeeks.org/problems/clone-a-binary-tree/1)
-- [x] [Trie | (Insert and Search)](https://practice.geeksforgeeks.org/problems/trie-insert-and-search/0)
+- [ ] [Clone a Binary Tree](https://practice.geeksforgeeks.org/problems/clone-a-binary-tree/1)
+- [ ] [Trie | (Insert and Search)](https://practice.geeksforgeeks.org/problems/trie-insert-and-search/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai, Deepak
@@ -333,7 +333,7 @@ I will be participating in following Activities in 100 Days of Code.
 ### **Day 24**
 **DSA :**
 > Data Structure(Compulsory)
-- [x] [Delete a node from BST](https://practice.geeksforgeeks.org/problems/delete-a-node-from-bst/1)
+- [ ] [Delete a node from BST](https://practice.geeksforgeeks.org/problems/delete-a-node-from-bst/1)
 - [ ] [Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1)
 - [ ] [Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1)
 > GSOC
@@ -345,12 +345,12 @@ I will be participating in following Activities in 100 Days of Code.
 ### **Day 25**
 ### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
 - [ ] [Path in Matrix](https://practice.geeksforgeeks.org/problems/path-in-matrix/0)
-- [x] [Boolean Matrix Problem](https://practice.geeksforgeeks.org/problems/boolean-matrix-problem/0)
+- [ ] [Boolean Matrix Problem](https://practice.geeksforgeeks.org/problems/boolean-matrix-problem/0)
 - [ ] [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)
 - [ ] [Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges/0)
 - [ ] [Count subsequences of type a^i, b^j, c^k](https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck4425/1)
-- [x] [Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1)
-- [x] [Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1)
+- [ ] [Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1)
+- [ ] [Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1)
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai
 
 ---
@@ -377,21 +377,77 @@ I will be participating in following Activities in 100 Days of Code.
 
 ### **Day 28**
 **DSA :**
-- [x] [Binary Heap Operations](https://practice.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
-- [x] [Heap Sort](https://practice.geeksforgeeks.org/problems/heap-sort/1)
-- [x] [Rearrange characters](https://practice.geeksforgeeks.org/problems/rearrange-characters/0)
+- [ ] [Binary Heap Operations](https://practice.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
+- [ ] [Heap Sort](https://practice.geeksforgeeks.org/problems/heap-sort/1)
+- [ ] [Rearrange characters](https://practice.geeksforgeeks.org/problems/rearrange-characters/0)
 - [ ] Learn Graph Traversal Methods.
 > GSOC
-- [x] Work on some issues and try to fix them.
+- [ ] Work on some issues and try to fix them.
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai
 
 ---
 
 ### **Day 29**
 **DSA :**
-- [x] [Longest consecutive subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0)
-- [x] [Array Pair Sum Divisibility Problem](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem/0)
-- [x] [Find all four sum numbers](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0)
+- [ ] [Longest consecutive subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0)
+- [ ] [Array Pair Sum Divisibility Problem](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem/0)
+- [ ] [Find all four sum numbers](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0)
 - [ ] Learn Graph Traversal Methods.
 > GSOC
-- [x] Work on some issues and try to fix them.
+- [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 30**
+**DSA :**
+- [ ] [Rat in a Maze Problem](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
+- [ ] [Find whether path exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0)
+- [ ] [Row with max 1s](https://practice.geeksforgeeks.org/problems/row-with-max-1s/0)
+- [ ] Learn Graph Traversal Methods.
+> GSOC
+- [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai
+
+---
+
+### **Day 31**
+**DSA :**
+- [ ] [Find Missing And Repeating](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating/0)
+- [ ] [Stock buy and sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0)
+- [ ] [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
+- [ ] Learn Graph Traversal Methods.
+> GSOC
+- [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav
+
+---
+
+### **Day 32**
+**DSA :**
+- [ ] [Clone a linked list with next and random pointer](https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1)
+- [ ] [Flattening a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1)
+- [ ] [Delete nodes having greater value on right](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 33**
+**DSA :**
+- [x] [Special Stack](https://practice.geeksforgeeks.org/problems/special-stack/1)
+- [x] [Get min at pop](https://practice.geeksforgeeks.org/problems/get-min-at-pop/1)
+- [x] [Reverse a string using Stack](https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
+
+---
+
+### **Day 34**
+**DSA :**
+- [ ] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)
+- [ ] [Make Binary Tree From Linked List](https://practice.geeksforgeeks.org/problems/make-binary-tree/1)
+- [ ] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
+- [ ] [Queue Operations](https://practice.geeksforgeeks.org/problems/queue-operations/1)
+- [ ] [Deque Implementations](https://practice.geeksforgeeks.org/problems/deque-implementations/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
