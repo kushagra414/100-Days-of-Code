@@ -513,8 +513,8 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 
 ### **Day 33**
 **DSA :**
-- [ ] [Special Stack](https://practice.geeksforgeeks.org/problems/special-stack/1)
-- [ ] [Get min at pop](https://practice.geeksforgeeks.org/problems/get-min-at-pop/1)
-- [ ] [Reverse a string using Stack](https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1)
+- [x] [Special Stack](https://practice.geeksforgeeks.org/problems/special-stack/1)
+- [x] [Get min at pop](https://practice.geeksforgeeks.org/problems/get-min-at-pop/1)
+- [x] [Reverse a string using Stack](https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1)
 > GSOC
-- [ ] Work on some issues and try to fix them.
+- [x] Work on some issues and try to fix them.
