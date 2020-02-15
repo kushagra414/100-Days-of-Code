@@ -491,9 +491,42 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 
 ### **Day 31**
 **DSA :**
-- [ ] [Find Missing And Repeating](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating/0)
-- [ ] [Stock buy and sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0)
+- [x] [Find Missing And Repeating](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating/0)
+- [x] [Stock buy and sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0)
 - [ ] [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
 - [ ] Learn Graph Traversal Methods.
+> GSOC
+- [x] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav
+
+---
+
+### **Day 32**
+**DSA :**
+- [ ] [Clone a linked list with next and random pointer](https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1)
+- [x] [Flattening a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1)
+- [ ] [Delete nodes having greater value on right](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1)
+> GSOC
+- [x] Work on some issues and try to fix them.
+
+---
+
+### **Day 33**
+**DSA :**
+- [x] [Special Stack](https://practice.geeksforgeeks.org/problems/special-stack/1)
+- [x] [Get min at pop](https://practice.geeksforgeeks.org/problems/get-min-at-pop/1)
+- [x] [Reverse a string using Stack](https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1)
+> GSOC
+- [x] Work on some issues and try to fix them.
+
+---
+
+### **Day 34**
+**DSA :**
+- [ ] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)
+- [ ] [Make Binary Tree From Linked List](https://practice.geeksforgeeks.org/problems/make-binary-tree/1)
+- [ ] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
+- [ ] [Queue Operations](https://practice.geeksforgeeks.org/problems/queue-operations/1)
+- [ ] [Deque Implementations](https://practice.geeksforgeeks.org/problems/deque-implementations/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.

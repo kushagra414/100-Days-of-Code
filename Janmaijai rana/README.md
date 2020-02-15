@@ -170,5 +170,13 @@ I will be participating in following Activities in 100 Days of Code.
 > GSOC
 - [ ] Work on some issues and try to fix them.
 
-      
+
+### **Day 31**
+**DSA :**
+- [X] [Find Missing And Repeating](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating/0)
+- [ ] [Stock buy and sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0)
+- [ ] [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
+- [ ] Learn Graph Traversal Methods.
+> GSOC
+- [ ] Work on some issues and try to fix them.      
 

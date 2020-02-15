@@ -17,5 +17,6 @@
 17. [Delete a node from BST](https://practice.geeksforgeeks.org/problems/delete-a-node-from-bst/1)
 18. [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)   ----> Very Imp
 19. [Find all four sum numbers](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0)
+20. [Stock buy and sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0)
 
 

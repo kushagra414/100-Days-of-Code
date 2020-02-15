@@ -372,3 +372,34 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] Learn Graph Traversal Methods.
 > GSOC
 - [x] Work on some issues and try to fix them.
+
+---
+
+### **Day 31**
+**DSA :**
+- [x] [Find Missing And Repeating](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating/0)
+- [x] [Stock buy and sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0)
+- [ ] [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
+- [ ] Learn Graph Traversal Methods.
+> GSOC
+- [x] Work on some issues and try to fix them.
+
+---
+
+### **Day 32**
+**DSA :**
+- [ ] [Clone a linked list with next and random pointer](https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1)
+- [x] [Flattening a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1)
+- [ ] [Delete nodes having greater value on right](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1)
+> GSOC
+- [x] Work on some issues and try to fix them.
+
+---
+
+### **Day 33**
+**DSA :**
+- [x] [Special Stack](https://practice.geeksforgeeks.org/problems/special-stack/1)
+- [x] [Get min at pop](https://practice.geeksforgeeks.org/problems/get-min-at-pop/1)
+- [x] [Reverse a string using Stack](https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1)
+> GSOC
+- [x] Work on some issues and try to fix them.
