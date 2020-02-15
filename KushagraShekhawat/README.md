@@ -393,3 +393,13 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] [Delete nodes having greater value on right](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1)
 > GSOC
 - [x] Work on some issues and try to fix them.
+
+---
+
+### **Day 33**
+**DSA :**
+- [x] [Special Stack](https://practice.geeksforgeeks.org/problems/special-stack/1)
+- [x] [Get min at pop](https://practice.geeksforgeeks.org/problems/get-min-at-pop/1)
+- [x] [Reverse a string using Stack](https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1)
+> GSOC
+- [x] Work on some issues and try to fix them.
