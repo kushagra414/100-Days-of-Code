@@ -161,7 +161,7 @@ I will be participating in following Activities in 100 Days of Code.
 > Data Structure(Compulsory)
 - [x] [Check if Linked List is Palindrome](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1)
 - [x] [Nth node from end of linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
-- [ ] [Remove loop in Linked List](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
+- [x] [Remove loop in Linked List](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
 > **IDIOT BOX** : Dhruv, Vaibhav, Deepak, Shashwat,Janmaijai
@@ -197,7 +197,7 @@ I will be participating in following Activities in 100 Days of Code.
 > Data Structure(Compulsory)
 - [ ] [Sum Tree](https://practice.geeksforgeeks.org/problems/sum-tree/1)
 - [x] [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
-- [ ] [Root to leaf path sum](https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)
+- [x] [Root to leaf path sum](https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
@@ -210,7 +210,7 @@ I will be participating in following Activities in 100 Days of Code.
 **DSA :**
 > Data Structure(Compulsory)
 - [ ] [Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
-- [ ] [Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor/0)
+- [x] [Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor/0)
 - [ ] [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
 - [ ] [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1)
 - [x] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
@@ -251,8 +251,8 @@ I will be participating in following Activities in 100 Days of Code.
 ### **Day 17**
 **DSA :**
 > Data Structure(Compulsory)
-- [x] [Sorting Elements of an Array by Frequency](https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/0)
-- [x] [Relative Sorting](https://practice.geeksforgeeks.org/problems/relative-sorting/0)
+- [ ] [Sorting Elements of an Array by Frequency](https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/0)
+- [ ] [Relative Sorting](https://practice.geeksforgeeks.org/problems/relative-sorting/0)
 - [ ] [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
@@ -334,7 +334,7 @@ I will be participating in following Activities in 100 Days of Code.
 **DSA :**
 > Data Structure(Compulsory)
 - [ ] [Delete a node from BST](https://practice.geeksforgeeks.org/problems/delete-a-node-from-bst/1)
-- [ ] [Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1)
+- [x] [Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1)
 - [ ] [Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
