@@ -403,3 +403,15 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Reverse a string using Stack](https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1)
 > GSOC
 - [x] Work on some issues and try to fix them.
+
+---
+
+### **Day 34**
+**DSA :**
+- [ ] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)
+- [ ] [Make Binary Tree From Linked List](https://practice.geeksforgeeks.org/problems/make-binary-tree/1)
+- [ ] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
+- [ ] [Dequeue Implementations](https://practice.geeksforgeeks.org/problems/print-binary-tree-levels-in-sorted-order/0)
+- [x] [Deque Implementations](https://practice.geeksforgeeks.org/problems/deque-implementations/1)
+> GSOC
+- [x] Work on some issues and try to fix them.
