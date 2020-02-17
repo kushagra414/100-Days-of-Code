@@ -418,7 +418,7 @@ I will be participating in following Activities in 100 Days of Code.
 
 ---
 
-### **Day 36**
+### **Day 35**
 **DSA :**
 - [ ] [Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
 - [x] [Lowest Common Ancestor in a BST](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1)
