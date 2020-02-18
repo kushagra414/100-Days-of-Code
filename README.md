@@ -32,13 +32,11 @@
  | ---                            | ---  | ---    |
  | Kushagra Shekhawat             |YES   |YES     |
  | Janmaijai Rana                 |YES   |YES     |
- <<<<<<< patch-2
  | Vaibhav Kumar                  |YES   |NO      |
  | Dhruv Yadav                    |YES   |NO      |
  | Shashwat Shukla                |YES   |TRY     |
  | Deepak Kumar                   |YES   |TRY     |
- ======
- >>>>>>> master
+
 > 100 Days of Code will start from 13/01/2020
 
 ---
@@ -62,7 +60,7 @@
 - [ ] Learn Git/GitHub.
 - [ ]  Submit your Name for 100 Days of Code.
 > **IDIOT BOX** : Empty
-  <<<<<<< patch-2
+ 
 
   ---
 
@@ -565,4 +563,4 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 > GSOC
 - [ ] Work on some issues and try to fix them.
 =======
- >>>>>>> master
+
