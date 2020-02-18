@@ -557,7 +557,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)
 - [ ] [Make Binary Tree From Linked List](https://practice.geeksforgeeks.org/problems/make-binary-tree/1)
 - [ ] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
-- [ ] [Dequeue Implementations](https://practice.geeksforgeeks.org/problems/print-binary-tree-levels-in-sorted-order/0)
+- [x] [Print Binary Tree levels in sorted order](https://practice.geeksforgeeks.org/problems/print-binary-tree-levels-in-sorted-order/0)
 - [ ] [Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
 - [ ] [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
 > GSOC
