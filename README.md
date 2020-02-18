@@ -563,8 +563,6 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 > GSOC
 - [x] Work on some issues and try to fix them.
 
-<<<<<<< Updated upstream
-=======
 ---
 
 ### **Day 37**
@@ -579,4 +577,3 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
->>>>>>> Stashed changes
