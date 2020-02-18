@@ -532,3 +532,32 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Deque Implementations](https://practice.geeksforgeeks.org/problems/deque-implementations/1)
 > GSOC
 - [x] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat
+
+---
+
+### **Day 35**
+**DSA :**
+- [ ] [Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
+- [x] [Lowest Common Ancestor in a BST](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1)
+- [ ] [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
+> GSOC
+- [x] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Deepak, Janmaijai
+
+---
+
+### **Day 36**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+- [ ] [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
+- [ ] [Find whether path exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0)
+- [ ] [Clone a linked list with next and random pointer](https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1)
+- [ ] [Delete nodes having greater value on right](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1)
+- [ ] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)
+- [ ] [Make Binary Tree From Linked List](https://practice.geeksforgeeks.org/problems/make-binary-tree/1)
+- [ ] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
+- [x] [Print Binary Tree levels in sorted order](https://practice.geeksforgeeks.org/problems/print-binary-tree-levels-in-sorted-order/0)
+- [ ] [Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
+- [ ] [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
+> GSOC
+- [ ] Work on some issues and try to fix them.
