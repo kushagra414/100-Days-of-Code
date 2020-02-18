@@ -208,7 +208,7 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] [Make Binary Tree From Linked List](https://practice.geeksforgeeks.org/problems/make-binary-tree/1)
 - [ ] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
 - [ ] [Queue Operations](https://practice.geeksforgeeks.org/problems/queue-operations/1)
-- [ ] [Deque Implementations](https://practice.geeksforgeeks.org/problems/deque-implementations/1)
+- [X] [Deque Implementations](https://practice.geeksforgeeks.org/problems/deque-implementations/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
 

@@ -24,19 +24,19 @@
 > **Note** : You have to mention whether you are participating in **100 Days of code** as a DSA student, GSOC aspirant or as both.
 
 ---
-
 <!--Name of Students-->
-- This table specifies the name of student participating in **100 Days of code** and their jobs.<br>
-- You have to add your name to this list. If you are participating.<br>
+  - This table specifies the name of student participating in **100 Days of code** and their jobs.<br>
+  - You have to add your name to this list. If you are participating.<br>
 
-|   Name                         | DSA  |  GSOC  |
-| ---                            | ---  | ---    |
-| Kushagra Shekhawat             |YES   |YES     |
-| Janmaijai Rana                 |YES   |YES     |
-| Vaibhav Kumar                  |YES   |NO      |
-| Dhruv Yadav                    |YES   |NO      |
-| Shashwat Shukla                |YES   |TRY     |
-| Deepak Kumar                   |YES   |TRY     |
+ |   Name                         | DSA  |  GSOC  |
+ | ---                            | ---  | ---    |
+ | Kushagra Shekhawat             |YES   |YES     |
+ | Janmaijai Rana                 |YES   |YES     |
+ | Vaibhav Kumar                  |YES   |NO      |
+ | Dhruv Yadav                    |YES   |NO      |
+ | Shashwat Shukla                |YES   |TRY     |
+ | Deepak Kumar                   |YES   |TRY     |
+
 > 100 Days of Code will start from 13/01/2020
 
 ---
@@ -60,8 +60,9 @@
 - [ ] Learn Git/GitHub.
 - [ ]  Submit your Name for 100 Days of Code.
 > **IDIOT BOX** : Empty
+ 
 
----
+  ---
 
 ### **Day minus 1**
 #### Tasks
@@ -561,3 +562,4 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
 > GSOC
 - [x] Work on some issues and try to fix them.
+
