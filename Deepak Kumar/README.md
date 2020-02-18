@@ -321,7 +321,7 @@ I will be participating in following Activities in 100 Days of Code.
 ### **Day 23**
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [Count subsequences of type a^i, b^j, c^k](https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck4425/1)
+- [x] [Count subsequences of type a^i, b^j, c^k](https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck4425/1)
 - [ ] [Clone a Binary Tree](https://practice.geeksforgeeks.org/problems/clone-a-binary-tree/1)
 - [ ] [Trie | (Insert and Search)](https://practice.geeksforgeeks.org/problems/trie-insert-and-search/0)
 > GSOC
@@ -333,7 +333,7 @@ I will be participating in following Activities in 100 Days of Code.
 ### **Day 24**
 **DSA :**
 > Data Structure(Compulsory)
-- [ ] [Delete a node from BST](https://practice.geeksforgeeks.org/problems/delete-a-node-from-bst/1)
+- [x] [Delete a node from BST](https://practice.geeksforgeeks.org/problems/delete-a-node-from-bst/1)
 - [x] [Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1)
 - [ ] [Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1)
 > GSOC
