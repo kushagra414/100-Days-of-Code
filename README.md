@@ -562,6 +562,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
 > GSOC
 - [x] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat
 
 ---
 
@@ -571,9 +572,9 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Find whether path exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0)
 - [ ] [Delete nodes having greater value on right](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1)
 - [ ] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)
-- [ ] [Make Binary Tree From Linked List](https://practice.geeksforgeeks.org/problems/make-binary-tree/1)
+- [x] [Make Binary Tree From Linked List](https://practice.geeksforgeeks.org/problems/make-binary-tree/1)
 - [ ] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
-- [ ] [Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
+- [x] [Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
 - [ ] [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
 > GSOC
-- [ ] Work on some issues and try to fix them.
+- [x] Work on some issues and try to fix them.
