@@ -580,6 +580,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
 > GSOC
 - [x] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
 
 ---
 
@@ -593,6 +594,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
 > GSOC
 - [x] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak, Janmaijai
 
 ---
 
