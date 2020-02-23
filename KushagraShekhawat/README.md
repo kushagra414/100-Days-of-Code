@@ -492,3 +492,11 @@ I will be participating in following Activities in 100 Days of Code.
 > GSOC
 - [x] Work on some issues and try to fix them.
 
+---
+
+### **Day 41**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+- [ ] [Find whether path exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0)
+- [x] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)check-mirror-in-n-ary-tree/0)
+> GSOC
+- [x] Work on some issues and try to fix them.
