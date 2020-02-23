@@ -31,12 +31,13 @@
 
 |   Name                         | DSA  |  GSOC  |
 | ---                            | ---  | ---    |
-| Kushagra Shekhawat             |YES   |YES     |
-| Janmaijai Rana                 |YES   |YES     |
-| Vaibhav Kumar                  |YES   |NO      |
-| Dhruv Yadav                    |YES   |NO      |
-| Shashwat Shukla                |YES   |TRY     |
 | Deepak Kumar                   |YES   |TRY     |
+| Dhruv Yadav                    |YES   |NO      |
+| Janmaijai Rana                 |YES   |YES     |
+| Kushagra Shekhawat             |YES   |YES     |
+| Shashwat Shukla                |YES   |TRY     |
+| Vaibhav Kumar                  |YES   |NO      |
+
 > 100 Days of Code will start from 13/01/2020
 
 ---
