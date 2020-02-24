@@ -500,3 +500,13 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)check-mirror-in-n-ary-tree/0)
 > GSOC
 - [x] Work on some issues and try to fix them.
+
+---
+
+### **Day 42**
+**DSA :**
+- [x] [Largest Number formed from an Array](https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array/0)
+- [x] [Finding Number](https://practice.geeksforgeeks.org/problems/finding-number/0)
+- [x] [Smallest Positive missing number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/0)
+> GSOC
+- [x] Start making Proposal for GSOC.
