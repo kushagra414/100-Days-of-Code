@@ -25,17 +25,17 @@
 
 ---
 <!--Name of Students-->
-  - This table specifies the name of student participating in **100 Days of code** and their jobs.<br>
-  - You have to add your name to this list. If you are participating.<br>
+- This table specifies the name of student participating in **100 Days of code** and their jobs.<br>
+- You have to add your name to this list. If you are participating.<br>
 
- |   Name                         | DSA  |  GSOC  |
- | ---                            | ---  | ---    |
- | Kushagra Shekhawat             |YES   |YES     |
- | Janmaijai Rana                 |YES   |YES     |
- | Vaibhav Kumar                  |YES   |NO      |
- | Dhruv Yadav                    |YES   |NO      |
- | Shashwat Shukla                |YES   |TRY     |
- | Deepak Kumar                   |YES   |TRY     |
+|   Name                         | DSA  |  GSOC  |
+| ---                            | ---  | ---    |
+| Deepak Kumar                   |YES   |TRY     |
+| Dhruv Yadav                    |YES   |NO      |
+| Janmaijai Rana                 |YES   |YES     |
+| Kushagra Shekhawat             |YES   |YES     |
+| Shashwat Shukla                |YES   |TRY     |
+| Vaibhav Kumar                  |YES   |NO      |
 
 > 100 Days of Code will start from 13/01/2020
 
