@@ -18,5 +18,7 @@
 18. [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)   ----> Very Imp
 19. [Find all four sum numbers](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0)
 20. [Stock buy and sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0)
-
-
+21. [Lowest Common Ancestor in a BST](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1)
+22. [Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
+23. [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
+24. [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
