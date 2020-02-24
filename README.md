@@ -628,6 +628,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)
 > GSOC
 - [x] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
 
 ---
 
