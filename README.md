@@ -25,17 +25,17 @@
 
 ---
 <!--Name of Students-->
-  - This table specifies the name of student participating in **100 Days of code** and their jobs.<br>
-  - You have to add your name to this list. If you are participating.<br>
+- This table specifies the name of student participating in **100 Days of code** and their jobs.<br>
+- You have to add your name to this list. If you are participating.<br>
 
- |   Name                         | DSA  |  GSOC  |
- | ---                            | ---  | ---    |
- | Kushagra Shekhawat             |YES   |YES     |
- | Janmaijai Rana                 |YES   |YES     |
- | Vaibhav Kumar                  |YES   |NO      |
- | Dhruv Yadav                    |YES   |NO      |
- | Shashwat Shukla                |YES   |TRY     |
- | Deepak Kumar                   |YES   |TRY     |
+|   Name                         | DSA  |  GSOC  |
+| ---                            | ---  | ---    |
+| Deepak Kumar                   |YES   |TRY     |
+| Dhruv Yadav                    |YES   |NO      |
+| Janmaijai Rana                 |YES   |YES     |
+| Kushagra Shekhawat             |YES   |YES     |
+| Shashwat Shukla                |YES   |TRY     |
+| Vaibhav Kumar                  |YES   |NO      |
 
 > 100 Days of Code will start from 13/01/2020
 
@@ -580,6 +580,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
 > GSOC
 - [x] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
 
 ---
 
@@ -587,12 +588,25 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 ### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
 - [ ] [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
 - [ ] [Find whether path exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0)
-- [ ] [Delete nodes having greater value on right](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1)
+- [x] [Delete nodes having greater value on right](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1)
 - [ ] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)
 - [ ] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
-- [ ] [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
+- [x] [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
+> GSOC
+- [x] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak, Janmaijai
+
+---
+
+### **Day 39**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+- [x] [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
+- [ ] [Find whether path exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0)
+- [ ] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)
+- [ ] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+
 
 ### **Day 38**
 ### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
@@ -611,4 +625,36 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [X] [Find whether path exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0)
 - [ ] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
 > GSOC
+- [ ] Work on some issues and try to fix them
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak, Janmaijai
+
+---
+
+### **Day 40**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+- [ ] [Find whether path exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0)
+- [ ] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)
+- [ ] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
+> GSOC
 - [ ] Work on some issues and try to fix them.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
+
+---
+
+
+### **Day 41**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+- [ ] [Find whether path exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0)
+- [x] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)
+> GSOC
+- [x] Work on some issues and try to fix them.
+
+---
+
+### **Day 42**
+**DSA :**
+- [ ] [Largest Number formed from an Array](https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array/0)
+- [ ] [Finding Number](https://practice.geeksforgeeks.org/problems/finding-number/0)
+- [ ] [Smallest Positive missing number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/0)
+> GSOC
+- [ ] Start making Proposal for GSOC.
