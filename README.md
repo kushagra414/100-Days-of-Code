@@ -606,28 +606,24 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
+
+### **Day 40**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+- [X] [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
+- [X] [Find whether path exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0)
+- [X] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
+> GSOC
+- [ ] Work on some issues and try to fix them
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak, Janmaijai
 
 ---
 
-### **Day 40**
-### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
-- [ ] [Find whether path exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0)
-- [ ] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)
-- [ ] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
-> GSOC
-- [ ] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
-
----
-
-
 ### **Day 41**
 ### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
 - [ ] [Find whether path exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0)
-- [x] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)
+- [ ] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)
 > GSOC
-- [x] Work on some issues and try to fix them.
+- [ ] Work on some issues and try to fix them.
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
 
 ---
@@ -635,8 +631,8 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 ### **Day 42**
 **DSA :**
 - [x] [Largest Number formed from an Array](https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array/0)
-- [x] [Finding Number](https://practice.geeksforgeeks.org/problems/finding-number/0)
-- [x] [Smallest Positive missing number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/0)
+- [ ] [Finding Number](https://practice.geeksforgeeks.org/problems/finding-number/0)
+- [ ] [Smallest Positive missing number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/0)
 > GSOC
 - [x] Start making Proposal for GSOC.
 
