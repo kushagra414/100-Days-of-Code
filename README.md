@@ -641,8 +641,8 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 
 ### **Day 43**
 **DSA :**
-- [ ] [Rotate a Linked List](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1)
-- [ ] [Delete keys in a Linked list ](https://practice.geeksforgeeks.org/problems/delete-keys-in-a-linked-list/1)
-- [ ] [Reorder List](https://practice.geeksforgeeks.org/problems/reorder-list/1)
+- [x] [Rotate a Linked List](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1)
+- [x] [Delete keys in a Linked list ](https://practice.geeksforgeeks.org/problems/delete-keys-in-a-linked-list/1)
+- [x] [Reorder List](https://practice.geeksforgeeks.org/problems/reorder-list/1)
 > GSOC
-- [ ] Start making Proposal for GSOC.
+- [x] Start making Proposal for GSOC.

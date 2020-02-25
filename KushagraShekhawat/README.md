@@ -510,3 +510,13 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Smallest Positive missing number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/0)
 > GSOC
 - [x] Start making Proposal for GSOC.
+
+---
+
+### **Day 43**
+**DSA :**
+- [x] [Rotate a Linked List](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1)
+- [x] [Delete keys in a Linked list ](https://practice.geeksforgeeks.org/problems/delete-keys-in-a-linked-list/1)
+- [x] [Reorder List](https://practice.geeksforgeeks.org/problems/reorder-list/1)
+> GSOC
+- [x] Start making Proposal for GSOC.
