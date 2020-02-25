@@ -639,3 +639,13 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Smallest Positive missing number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/0)
 > GSOC
 - [x] Start making Proposal for GSOC.
+
+---
+
+### **Day 43**
+**DSA :**
+- [ ] [Rotate a Linked List](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1)
+- [ ] [Delete keys in a Linked list ](https://practice.geeksforgeeks.org/problems/delete-keys-in-a-linked-list/1)
+- [ ] [Reorder List](https://practice.geeksforgeeks.org/problems/reorder-list/1)
+> GSOC
+- [ ] Start making Proposal for GSOC.
