@@ -656,3 +656,13 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Max rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1)
 > GSOC
 - [x] Start making Proposal for GSOC.
+
+---
+
+### **Day 45**
+**DSA :**
+- [ ] [Mirror Tree](https://practice.geeksforgeeks.org/problems/mirror-tree/1)
+- [ ] [Chinky and diamonds](https://practice.geeksforgeeks.org/problems/chinky-and-diamonds/0)
+- [ ] [Next Right Node](https://practice.geeksforgeeks.org/problems/next-right-node/1)
+> GSOC
+- [ ] Start making Proposal for GSOC.
