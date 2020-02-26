@@ -646,3 +646,13 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Reorder List](https://practice.geeksforgeeks.org/problems/reorder-list/1)
 > GSOC
 - [x] Start making Proposal for GSOC.
+
+---
+
+### **Day 44**
+**DSA :**
+- [ ] [Print Bracket Number](https://practice.geeksforgeeks.org/problems/print-bracket-number/0)
+- [ ] [Smallest number on left](https://practice.geeksforgeeks.org/problems/smallest-number-on-left/0)
+- [ ] [Max rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1)
+> GSOC
+- [ ] Start making Proposal for GSOC.
