@@ -22,3 +22,4 @@
 22. [Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
 23. [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
 24. [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
+25. [Max rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1)

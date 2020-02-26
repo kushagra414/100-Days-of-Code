@@ -520,3 +520,13 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Reorder List](https://practice.geeksforgeeks.org/problems/reorder-list/1)
 > GSOC
 - [x] Start making Proposal for GSOC.
+
+---
+
+### **Day 44**
+**DSA :**
+- [x] [Print Bracket Number](https://practice.geeksforgeeks.org/problems/print-bracket-number/0)
+- [x] [Smallest number on left](https://practice.geeksforgeeks.org/problems/smallest-number-on-left/0)
+- [x] [Max rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1)
+> GSOC
+- [x] Start making Proposal for GSOC.
