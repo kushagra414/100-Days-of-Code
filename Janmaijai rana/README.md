@@ -233,8 +233,8 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] [Make Binary Tree From Linked List](https://practice.geeksforgeeks.org/problems/make-binary-tree/1)
 - [ ] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
 - [ ] [Print Binary Tree levels in sorted order](https://practice.geeksforgeeks.org/problems/print-binary-tree-levels-in-sorted-order/0)
-- [ ] [Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
-- [ ] [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
+- [X] [Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
+- [X] [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
 
@@ -250,7 +250,7 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)
 - [ ] [Make Binary Tree From Linked List](https://practice.geeksforgeeks.org/problems/make-binary-tree/1)
 - [ ] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
-- [ ] [Print Binary Tree levels in sorted order](https://practice.geeksforgeeks.org/problems/print-binary-tree-levels-in-sorted-order/0)
+- [X] [Print Binary Tree levels in sorted order](https://practice.geeksforgeeks.org/problems/print-binary-tree-levels-in-sorted-order/0)
 - [ ] [Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
 - [ ] [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
 > GSOC
@@ -263,8 +263,7 @@ I will be participating in following Activities in 100 Days of Code.
 ### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
 - [ ] [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
 - [ ] [Find whether path exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0)
-- [X] [Delete nodes having greater value on right](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1)
-- [X] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)
+- [ ] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)
 - [ ] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
 - [ ] [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
 > GSOC
@@ -275,17 +274,18 @@ I will be participating in following Activities in 100 Days of Code.
 
 ### **Day 39**
 ### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
-- [ ] [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
+
 - [ ] [Find whether path exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0)
-- [ ] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)
+- [X] [Delete nodes having greater value on right](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1)
+- [X] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)
 - [ ] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
 
 ### **Day 40**
 ### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
-- [ ] [Find whether path exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0)
-- [ ] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)
+- [X] [Find whether path exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0)
+- [X] [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
 - [X] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
@@ -311,4 +311,34 @@ I will be participating in following Activities in 100 Days of Code.
 > GSOC
 - [ ] Start making Proposal for GSOC.
 
+---
 
+### **Day 43**
+**DSA :**
+- [x] [Rotate a Linked List](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1)
+- [x] [Delete keys in a Linked list ](https://practice.geeksforgeeks.org/problems/delete-keys-in-a-linked-list/1)
+- [x] [Reorder List](https://practice.geeksforgeeks.org/problems/reorder-list/1)
+> GSOC
+- [ ] Start making Proposal for GSOC.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
+---
+
+### **Day 44**
+**DSA :**
+- [x] [Print Bracket Number](https://practice.geeksforgeeks.org/problems/print-bracket-number/0)
+- [x] [Smallest number on left](https://practice.geeksforgeeks.org/problems/smallest-number-on-left/0)
+- [ ] [Max rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1)
+> GSOC
+- [ ] Start making Proposal for GSOC.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
+---
+
+### **Day 45**
+**DSA :**
+- [x] [Mirror Tree](https://practice.geeksforgeeks.org/problems/mirror-tree/1)
+- [ ] [Chinky and diamonds](https://practice.geeksforgeeks.org/problems/chinky-and-diamonds/0)
+- [x] [Next Right Node](https://practice.geeksforgeeks.org/problems/next-right-node/1)
+> GSOC
+- [ ] Start making Proposal for GSOC.
