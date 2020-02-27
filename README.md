@@ -646,6 +646,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Reorder List](https://practice.geeksforgeeks.org/problems/reorder-list/1)
 > GSOC
 - [x] Start making Proposal for GSOC.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
 
 ---
 
@@ -656,13 +657,14 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Max rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1)
 > GSOC
 - [x] Start making Proposal for GSOC.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
 
 ---
 
 ### **Day 45**
 **DSA :**
-- [ ] [Mirror Tree](https://practice.geeksforgeeks.org/problems/mirror-tree/1)
-- [ ] [Chinky and diamonds](https://practice.geeksforgeeks.org/problems/chinky-and-diamonds/0)
-- [ ] [Next Right Node](https://practice.geeksforgeeks.org/problems/next-right-node/1)
+- [x] [Mirror Tree](https://practice.geeksforgeeks.org/problems/mirror-tree/1)
+- [x] [Chinky and diamonds](https://practice.geeksforgeeks.org/problems/chinky-and-diamonds/0)
+- [x] [Next Right Node](https://practice.geeksforgeeks.org/problems/next-right-node/1)
 > GSOC
-- [ ] Start making Proposal for GSOC.
+- [x] Start making Proposal for GSOC.

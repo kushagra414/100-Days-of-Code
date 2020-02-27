@@ -530,3 +530,13 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Max rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1)
 > GSOC
 - [x] Start making Proposal for GSOC.
+
+---
+
+### **Day 45**
+**DSA :**
+- [x] [Mirror Tree](https://practice.geeksforgeeks.org/problems/mirror-tree/1)
+- [x] [Chinky and diamonds](https://practice.geeksforgeeks.org/problems/chinky-and-diamonds/0)
+- [x] [Next Right Node](https://practice.geeksforgeeks.org/problems/next-right-node/1)
+> GSOC
+- [x] Start making Proposal for GSOC.
