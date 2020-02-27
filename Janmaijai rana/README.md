@@ -284,8 +284,13 @@ I will be participating in following Activities in 100 Days of Code.
 
 ### **Day 40**
 ### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+
 - [X] [Find whether path exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0)
 - [X] [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
+
+- [ ] [Find whether path exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0)
+- [ ] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)
+
 - [X] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
@@ -310,6 +315,7 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] [Smallest Positive missing number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/0)
 > GSOC
 - [ ] Start making Proposal for GSOC.
+
 
 ---
 
@@ -342,3 +348,4 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Next Right Node](https://practice.geeksforgeeks.org/problems/next-right-node/1)
 > GSOC
 - [ ] Start making Proposal for GSOC.
+

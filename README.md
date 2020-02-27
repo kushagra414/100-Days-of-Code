@@ -41,9 +41,9 @@
 
 ---
 
-![Number of Days](https://img.shields.io/badge/100%20Days%20of%20Code-10-brightgreen)
-![Number of DSA Questions](https://img.shields.io/badge/DSA-47%20Questions-orange)
-![Time given to GSOC](https://img.shields.io/badge/GSOC-9%20hours-blueviolet)
+![Number of Days](https://img.shields.io/badge/Number%20of%20Days-45-brightgreen)
+![Number of DSA Questions](https://img.shields.io/badge/Number%20of%20DSA%20Questions-115-orange)
+![Time given to GSOC](https://img.shields.io/badge/Time%20given%20to%20GSOC-70%20hours-blueviolet)
 
 ---
 
@@ -635,13 +635,36 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Smallest Positive missing number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/0)
 > GSOC
 - [x] Start making Proposal for GSOC.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
 
 ---
 
 ### **Day 43**
 **DSA :**
-- [ ] [Rotate a Linked List](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1)
-- [ ] [Delete keys in a Linked list ](https://practice.geeksforgeeks.org/problems/delete-keys-in-a-linked-list/1)
-- [ ] [Reorder List](https://practice.geeksforgeeks.org/problems/reorder-list/1)
+- [x] [Rotate a Linked List](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1)
+- [x] [Delete keys in a Linked list ](https://practice.geeksforgeeks.org/problems/delete-keys-in-a-linked-list/1)
+- [x] [Reorder List](https://practice.geeksforgeeks.org/problems/reorder-list/1)
 > GSOC
-- [ ] Start making Proposal for GSOC.
+- [x] Start making Proposal for GSOC.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
+---
+
+### **Day 44**
+**DSA :**
+- [x] [Print Bracket Number](https://practice.geeksforgeeks.org/problems/print-bracket-number/0)
+- [x] [Smallest number on left](https://practice.geeksforgeeks.org/problems/smallest-number-on-left/0)
+- [x] [Max rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1)
+> GSOC
+- [x] Start making Proposal for GSOC.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
+---
+
+### **Day 45**
+**DSA :**
+- [x] [Mirror Tree](https://practice.geeksforgeeks.org/problems/mirror-tree/1)
+- [x] [Chinky and diamonds](https://practice.geeksforgeeks.org/problems/chinky-and-diamonds/0)
+- [x] [Next Right Node](https://practice.geeksforgeeks.org/problems/next-right-node/1)
+> GSOC
+- [x] Start making Proposal for GSOC.

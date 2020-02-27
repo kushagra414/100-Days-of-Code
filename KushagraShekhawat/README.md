@@ -510,3 +510,33 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Smallest Positive missing number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/0)
 > GSOC
 - [x] Start making Proposal for GSOC.
+
+---
+
+### **Day 43**
+**DSA :**
+- [x] [Rotate a Linked List](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1)
+- [x] [Delete keys in a Linked list ](https://practice.geeksforgeeks.org/problems/delete-keys-in-a-linked-list/1)
+- [x] [Reorder List](https://practice.geeksforgeeks.org/problems/reorder-list/1)
+> GSOC
+- [x] Start making Proposal for GSOC.
+
+---
+
+### **Day 44**
+**DSA :**
+- [x] [Print Bracket Number](https://practice.geeksforgeeks.org/problems/print-bracket-number/0)
+- [x] [Smallest number on left](https://practice.geeksforgeeks.org/problems/smallest-number-on-left/0)
+- [x] [Max rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1)
+> GSOC
+- [x] Start making Proposal for GSOC.
+
+---
+
+### **Day 45**
+**DSA :**
+- [x] [Mirror Tree](https://practice.geeksforgeeks.org/problems/mirror-tree/1)
+- [x] [Chinky and diamonds](https://practice.geeksforgeeks.org/problems/chinky-and-diamonds/0)
+- [x] [Next Right Node](https://practice.geeksforgeeks.org/problems/next-right-node/1)
+> GSOC
+- [x] Start making Proposal for GSOC.
