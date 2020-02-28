@@ -540,3 +540,13 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Next Right Node](https://practice.geeksforgeeks.org/problems/next-right-node/1)
 > GSOC
 - [x] Start making Proposal for GSOC.
+
+---
+
+### **Day 46**
+**DSA :**
+- [x] [Kth largest element in a stream](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-a-stream/0)
+- [ ] [Huffman Encoding](https://practice.geeksforgeeks.org/problems/huffman-encoding/0)
+- [ ] [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
+> GSOC
+- [x] Start making Proposal for GSOC.
