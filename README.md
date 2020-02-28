@@ -668,3 +668,13 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Next Right Node](https://practice.geeksforgeeks.org/problems/next-right-node/1)
 > GSOC
 - [x] Start making Proposal for GSOC.
+
+---
+
+### **Day 46**
+**DSA :**
+- [ ] [Kth largest element in a stream](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-a-stream/0)
+- [ ] [Huffman Encoding](https://practice.geeksforgeeks.org/problems/huffman-encoding/0)
+- [ ] [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
+> GSOC
+- [ ] Start making Proposal for GSOC.
