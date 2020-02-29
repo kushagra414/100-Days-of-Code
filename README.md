@@ -683,7 +683,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 
 ### **Day 47**
 **DSA :**
-- [ ] [Zero Sum Subarrays](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0)
+- [x] [Zero Sum Subarrays](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0)
 - [ ] [Smallest distinct window](https://practice.geeksforgeeks.org/problems/smallest-distant-window/0)
 - [ ] [Smallest window in a string containing all the characters of another string](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0)
 > GSOC
