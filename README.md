@@ -688,3 +688,13 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Smallest window in a string containing all the characters of another string](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0)
 > GSOC
 - [ ] Start making Proposal for GSOC.
+
+---
+
+### **Day 48**
+**DSA :**
+- [ ] [Nearly Sorted Algorithm](https://practice.geeksforgeeks.org/problems/nearly-sorted-algorithm/0)
+- [ ] [Matrix Interchange](https://practice.geeksforgeeks.org/problems/matrix-interchange/1)
+- [ ] [Max distance between same elements](https://practice.geeksforgeeks.org/problems/max-distance-between-same-elements/1)
+> GSOC
+- [ ] Start making Proposal for GSOC.
