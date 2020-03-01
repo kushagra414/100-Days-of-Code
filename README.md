@@ -693,8 +693,9 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 
 ### **Day 48**
 **DSA :**
-- [ ] [Nearly Sorted Algorithm](https://practice.geeksforgeeks.org/problems/nearly-sorted-algorithm/0)
-- [ ] [Matrix Interchange](https://practice.geeksforgeeks.org/problems/matrix-interchange/1)
-- [ ] [Max distance between same elements](https://practice.geeksforgeeks.org/problems/max-distance-between-same-elements/1)
+- [x] [Nearly Sorted Algorithm](https://practice.geeksforgeeks.org/problems/nearly-sorted-algorithm/0)
+- [x] [Matrix Interchange](https://practice.geeksforgeeks.org/problems/matrix-interchange/1)
+- [x] [Max distance between same elements](https://practice.geeksforgeeks.org/problems/max-distance-between-same-elements/1)
+- [x] [Rotate a 2D array without using extra space](https://practice.geeksforgeeks.org/problems/rotate-a-2d-array-without-using-extra-space/0)
 > GSOC
 - [ ] Start making Proposal for GSOC.

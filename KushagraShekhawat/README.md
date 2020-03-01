@@ -550,3 +550,24 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
 > GSOC
 - [x] Start making Proposal for GSOC.
+
+---
+
+### **Day 47**
+**DSA :**
+- [x] [Zero Sum Subarrays](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0)
+- [ ] [Smallest distinct window](https://practice.geeksforgeeks.org/problems/smallest-distant-window/0)
+- [ ] [Smallest window in a string containing all the characters of another string](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0)
+> GSOC
+- [ ] Start making Proposal for GSOC.
+
+---
+
+### **Day 48**
+**DSA :**
+- [x] [Nearly Sorted Algorithm](https://practice.geeksforgeeks.org/problems/nearly-sorted-algorithm/0)
+- [x] [Matrix Interchange](https://practice.geeksforgeeks.org/problems/matrix-interchange/1)
+- [x] [Max distance between same elements](https://practice.geeksforgeeks.org/problems/max-distance-between-same-elements/1)
+- [x] [Rotate a 2D array without using extra space](https://practice.geeksforgeeks.org/problems/rotate-a-2d-array-without-using-extra-space/0)
+> GSOC
+- [ ] Start making Proposal for GSOC.
