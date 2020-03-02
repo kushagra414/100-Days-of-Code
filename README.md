@@ -668,6 +668,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Next Right Node](https://practice.geeksforgeeks.org/problems/next-right-node/1)
 > GSOC
 - [x] Start making Proposal for GSOC.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
 
 ---
 
@@ -678,6 +679,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
 > GSOC
 - [x] Start making Proposal for GSOC.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
 
 ---
 
@@ -688,6 +690,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Smallest window in a string containing all the characters of another string](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0)
 > GSOC
 - [ ] Start making Proposal for GSOC.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
 
 ---
 
@@ -699,6 +702,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Rotate a 2D array without using extra space](https://practice.geeksforgeeks.org/problems/rotate-a-2d-array-without-using-extra-space/0)
 > GSOC
 - [ ] Start making Proposal for GSOC.
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
 
 ---
 
