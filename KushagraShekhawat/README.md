@@ -571,3 +571,13 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Rotate a 2D array without using extra space](https://practice.geeksforgeeks.org/problems/rotate-a-2d-array-without-using-extra-space/0)
 > GSOC
 - [ ] Start making Proposal for GSOC.
+
+---
+
+### **Day 49**
+**DSA :**
+- [x] [Merge K sorted linked lists](https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1)
+- [ ] [QuickSort on Doubly Linked List](https://practice.geeksforgeeks.org/problems/quicksort-on-doubly-linked-list/1)
+- [ ] [Count Pairs whose sum is equal to X](Count Pairs whose sum is equal to X)
+> GSOC
+- [ ] Start making Proposal for GSOC.
