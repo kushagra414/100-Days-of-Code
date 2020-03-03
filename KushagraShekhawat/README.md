@@ -578,6 +578,16 @@ I will be participating in following Activities in 100 Days of Code.
 **DSA :**
 - [x] [Merge K sorted linked lists](https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1)
 - [ ] [QuickSort on Doubly Linked List](https://practice.geeksforgeeks.org/problems/quicksort-on-doubly-linked-list/1)
-- [ ] [Count Pairs whose sum is equal to X](Count Pairs whose sum is equal to X)
+- [ ] [Count Pairs whose sum is equal to X](https://practice.geeksforgeeks.org/problems/count-pairs-whose-sum-is-equal-to-x/1)
+> GSOC
+- [ ] Start making Proposal for GSOC.
+
+---
+
+### **Day 50**
+**DSA :**
+- [ ] [Delete middle element of a stack](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1)
+- [ ] [Stack Operations](https://practice.geeksforgeeks.org/problems/stacks-operations/1)
+- [ ] [Evaluation of Postfix Expression](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0)
 > GSOC
 - [ ] Start making Proposal for GSOC.
