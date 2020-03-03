@@ -713,3 +713,13 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Count Pairs whose sum is equal to X](Count Pairs whose sum is equal to X)
 > GSOC
 - [ ] Start making Proposal for GSOC.
+
+---
+
+### **Day 50**
+**DSA :**
+- [x] [Delete middle element of a stack](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1)
+- [ ] [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem/0)
+- [ ] [Evaluation of Postfix Expression](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0)
+> GSOC
+- [ ] Start making Proposal for GSOC.
