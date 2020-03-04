@@ -708,9 +708,9 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 
 ### **Day 49**
 **DSA :**
-- [ ] [Merge K sorted linked lists](https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1)
+- [x] [Merge K sorted linked lists](https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1)
 - [ ] [QuickSort on Doubly Linked List](https://practice.geeksforgeeks.org/problems/quicksort-on-doubly-linked-list/1)
-- [ ] [Count Pairs whose sum is equal to X](Count Pairs whose sum is equal to X)
+- [ ] [Count Pairs whose sum is equal to X](https://practice.geeksforgeeks.org/problems/count-pairs-whose-sum-is-equal-to-x/1)
 > GSOC
 - [ ] Start making Proposal for GSOC.
 
@@ -729,7 +729,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 ### **Day 51**
 **DSA :**
 - [ ] [Addition of submatrix](https://practice.geeksforgeeks.org/problems/addition-of-submatrix/0)
-- [ ] [Pairs which are Divisible by 4](https://practice.geeksforgeeks.org/problems/pairs-which-are-divisible-by-4/0)
+- [x] [Pairs which are Divisible by 4](https://practice.geeksforgeeks.org/problems/pairs-which-are-divisible-by-4/0)
 - [ ] [Find Transition Point](https://practice.geeksforgeeks.org/problems/find-transition-point/1)
 > GSOC
 - [ ] Start making Proposal for GSOC.

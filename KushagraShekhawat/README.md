@@ -586,8 +586,18 @@ I will be participating in following Activities in 100 Days of Code.
 
 ### **Day 50**
 **DSA :**
-- [ ] [Delete middle element of a stack](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1)
-- [ ] [Stack Operations](https://practice.geeksforgeeks.org/problems/stacks-operations/1)
+- [x] [Delete middle element of a stack](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1)
+- [ ] [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem/0)
 - [ ] [Evaluation of Postfix Expression](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0)
+> GSOC
+- [ ] Start making Proposal for GSOC.
+
+---
+
+### **Day 51**
+**DSA :**
+- [ ] [Addition of submatrix](https://practice.geeksforgeeks.org/problems/addition-of-submatrix/0)
+- [x] [Pairs which are Divisible by 4](https://practice.geeksforgeeks.org/problems/pairs-which-are-divisible-by-4/0)
+- [ ] [Find Transition Point](https://practice.geeksforgeeks.org/problems/find-transition-point/1)
 > GSOC
 - [ ] Start making Proposal for GSOC.
