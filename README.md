@@ -744,7 +744,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem/0)
 - [ ] [Evaluation of Postfix Expression](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0)
 - [ ] [Addition of submatrix](https://practice.geeksforgeeks.org/problems/addition-of-submatrix/0)
-- [ ] [Find Transition Point](https://practice.geeksforgeeks.org/problems/find-transition-point/1)
+- [x] [Find Transition Point](https://practice.geeksforgeeks.org/problems/find-transition-point/1)
 - [ ] [Smallest distinct window](https://practice.geeksforgeeks.org/problems/smallest-distant-window/0)
 - [ ] [Smallest window in a string containing all the characters of another string](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0)
 - [ ] [Huffman Encoding](https://practice.geeksforgeeks.org/problems/huffman-encoding/0)
