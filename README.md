@@ -758,7 +758,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 ### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
 **DSA :**
 - [ ] [QuickSort on Doubly Linked List](https://practice.geeksforgeeks.org/problems/quicksort-on-doubly-linked-list/1)
-- [ ] [Count Pairs whose sum is equal to X](https://practice.geeksforgeeks.org/problems/count-pairs-whose-sum-is-equal-to-x/1)
+- [x] [Count Pairs whose sum is equal to X](https://practice.geeksforgeeks.org/problems/count-pairs-whose-sum-is-equal-to-x/1)
 - [ ] [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem/0)
 - [ ] [Evaluation of Postfix Expression](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0)
 - [ ] [Addition of submatrix](https://practice.geeksforgeeks.org/problems/addition-of-submatrix/0)

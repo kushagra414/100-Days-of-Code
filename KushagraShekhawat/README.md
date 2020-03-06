@@ -619,3 +619,20 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
 > GSOC
 - [ ] Start making Proposal for GSOC.
+
+---
+
+### **Day 53**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+**DSA :**
+- [ ] [QuickSort on Doubly Linked List](https://practice.geeksforgeeks.org/problems/quicksort-on-doubly-linked-list/1)
+- [x] [Count Pairs whose sum is equal to X](https://practice.geeksforgeeks.org/problems/count-pairs-whose-sum-is-equal-to-x/1)
+- [ ] [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem/0)
+- [ ] [Evaluation of Postfix Expression](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0)
+- [ ] [Addition of submatrix](https://practice.geeksforgeeks.org/problems/addition-of-submatrix/0)
+- [ ] [Smallest distinct window](https://practice.geeksforgeeks.org/problems/smallest-distant-window/0)
+- [ ] [Smallest window in a string containing all the characters of another string](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0)
+- [ ] [Huffman Encoding](https://practice.geeksforgeeks.org/problems/huffman-encoding/0)
+- [ ] [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
+> GSOC
+- [ ] Start making Proposal for GSOC.
