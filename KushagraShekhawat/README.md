@@ -720,3 +720,16 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
 > GSOC
 - [x] Completed proposal for GSOC
+
+---
+
+### **Day 59**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+**DSA :**
+- [ ] [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem/0)
+- [ ] [Smallest distinct window](https://practice.geeksforgeeks.org/problems/smallest-distant-window/0)
+- [ ] [Smallest window in a string containing all the characters of another string](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0)
+- [x] [Nuts and Bolts Problem](https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem/0)
+- [ ] [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
+> GSOC
+- [x] Completed proposal for GSOC
