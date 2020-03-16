@@ -25,3 +25,4 @@
 25. [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
 26. [Max rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1)
 27. [Zero Sum Subarrays](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0)
+28. [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
