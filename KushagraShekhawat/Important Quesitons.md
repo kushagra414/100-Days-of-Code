@@ -26,3 +26,5 @@
 26. [Max rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1)
 27. [Zero Sum Subarrays](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0)
 28. [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
+29. [Smallest distinct window](https://practice.geeksforgeeks.org/problems/smallest-distant-window/0)
+30. [Smallest window in a string containing all the characters of another string](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0)
