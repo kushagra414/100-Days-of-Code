@@ -794,3 +794,14 @@ I will be participating in following Activities in 100 Days of Code.
 - [ ] [Subarrays with equal 1s and 0s](https://practice.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s/0)
 > GSOC
 - [x] Improve Draft Proposal
+
+---
+
+### **Day 66**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+**DSA :**
+- [ ] [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem/0)
+- [x] [Merge k Sorted Arrays](https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1)
+- [ ] [Subarrays with equal 1s and 0s](https://practice.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s/0)
+> GSOC
+- [x] Improve Draft Proposal
