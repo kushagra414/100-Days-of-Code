@@ -935,3 +935,14 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Subarrays with equal 1s and 0s](https://practice.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s/0)
 > GSOC
 - [x] Improve Draft Proposal
+
+---
+
+### **Day 67**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+**DSA :**
+- [ ] [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem/0)
+- [x] [Largest subarray of 0's and 1's](https://practice.geeksforgeeks.org/problems/largest-subarray-of-0s-and-1s/1)
+- [x] [Subarrays with equal 1s and 0s](https://practice.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s/0)
+> GSOC
+- [x] Improve Draft Proposal
