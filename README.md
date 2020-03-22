@@ -977,3 +977,15 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 > GSOC
 - [x] Improve Draft Proposal
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
+---
+
+### **Day 69**
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+**DSA :**
+- [ ] [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem/0)
+- [x] [Binary Tree to DLL](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1)
+- [ ] [Leaves to DLL](https://practice.geeksforgeeks.org/problems/leaves-to-dll/1)
+> GSOC
+- [x] Improve Draft Proposal
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai

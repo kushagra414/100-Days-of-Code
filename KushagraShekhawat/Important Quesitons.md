@@ -29,4 +29,5 @@
 29. [Smallest distinct window](https://practice.geeksforgeeks.org/problems/smallest-distant-window/0)
 30. [Smallest window in a string containing all the characters of another string](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0)
 31. [Subarrays with equal 1s and 0s](https://practice.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s/0)
-21. [Number of pairs](https://practice.geeksforgeeks.org/problems/number-of-pairs/0)
+32. [Number of pairs](https://practice.geeksforgeeks.org/problems/number-of-pairs/0)
+32. [Binary Tree to DLL](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1)
