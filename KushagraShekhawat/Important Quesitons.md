@@ -31,3 +31,6 @@
 31. [Subarrays with equal 1s and 0s](https://practice.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s/0)
 32. [Number of pairs](https://practice.geeksforgeeks.org/problems/number-of-pairs/0)
 32. [Binary Tree to DLL](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1)
+33. [Preorder to Postorder](https://practice.geeksforgeeks.org/problems/preorder-to-postorder/0)
+34. [Connect Nodes at Same Level](https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1) ---> This Problem showed me very efficient way for level order Traversal in which you know on what level you are!(Level Order Traversal with queue in which you can tell the level).
+35. [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem/0) ----> Not done yet!
