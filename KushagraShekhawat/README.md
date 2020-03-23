@@ -841,7 +841,7 @@ I will be participating in following Activities in 100 Days of Code.
 
 ---
 
-### **Day 69**
+### **Day 70**
 ### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
 **DSA :**
 - [x] [Preorder to Postorder](https://practice.geeksforgeeks.org/problems/preorder-to-postorder/0)

@@ -992,7 +992,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 
 ---
 
-### **Day 69**
+### **Day 70**
 ### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
 **DSA :**
 - [x] [Preorder to Postorder](https://practice.geeksforgeeks.org/problems/preorder-to-postorder/0)
@@ -1000,3 +1000,4 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Connect Nodes at Same Level](https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1)
 > GSOC
 - [x] Improve Draft Proposal
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
