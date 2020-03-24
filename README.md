@@ -1001,3 +1001,14 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 > GSOC
 - [x] Improve Draft Proposal
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
+---
+
+### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+**DSA :**
+- [x] [Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1)
+- [x] [Convert Level Order Traversal to BST](https://practice.geeksforgeeks.org/problems/convert-level-order-traversal-to-bst/1)
+- [x] [Construct Tree from Preorder Traversal](https://practice.geeksforgeeks.org/problems/construct-tree-from-preorder-traversal/1)
+> GSOC
+- [x] Improve Draft Proposal
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
