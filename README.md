@@ -933,7 +933,6 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 ---
 
 ### **Day 65**
-### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
 **DSA :**
 - [ ] [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem/0)
 - [x] [In First But Second](https://practice.geeksforgeeks.org/problems/in-first-but-second/0)
@@ -945,7 +944,6 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 ---
 
 ### **Day 66**
-### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
 **DSA :**
 - [ ] [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem/0)
 - [x] [Merge k Sorted Arrays](https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1)
@@ -957,7 +955,6 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 ---
 
 ### **Day 67**
-### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
 **DSA :**
 - [ ] [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem/0)
 - [x] [Largest subarray of 0's and 1's](https://practice.geeksforgeeks.org/problems/largest-subarray-of-0s-and-1s/1)
@@ -969,7 +966,6 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 ---
 
 ### **Day 68**
-### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
 **DSA :**
 - [ ] [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem/0)
 - [x] [Ugly Numbers](https://practice.geeksforgeeks.org/problems/ugly-numbers/0)
@@ -981,7 +977,6 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 ---
 
 ### **Day 69**
-### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
 **DSA :**
 - [ ] [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem/0)
 - [x] [Binary Tree to DLL](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1)
@@ -993,7 +988,6 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 ---
 
 ### **Day 70**
-### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
 **DSA :**
 - [x] [Preorder to Postorder](https://practice.geeksforgeeks.org/problems/preorder-to-postorder/0)
 - [x] [Leaves to DLL](https://practice.geeksforgeeks.org/problems/leaves-to-dll/1)
@@ -1004,10 +998,21 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 
 ---
 
-### Try and Complete the incomplete questions. Here is a list of all the questions that were not completed by anyone.
+### **Day 71**
 **DSA :**
 - [x] [Convert Level Order Traversal to BST](https://practice.geeksforgeeks.org/problems/convert-level-order-traversal-to-bst/1)
 - [x] [Construct Tree from Preorder Traversal](https://practice.geeksforgeeks.org/problems/construct-tree-from-preorder-traversal/1)
 > GSOC
 - [x] Improve Draft Proposal
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
+---
+
+### **Day 72**
+**DSA :**
+- [x] [Smallest range in K lists](https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1)
+- [x] [Longest consecutive subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1)
+- [x] [Longest Sub-Array with Sum K](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k/0)
+> GSOC
+- [x] Submitted Proposal
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai

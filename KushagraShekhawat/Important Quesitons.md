@@ -34,3 +34,5 @@
 33. [Preorder to Postorder](https://practice.geeksforgeeks.org/problems/preorder-to-postorder/0)
 34. [Connect Nodes at Same Level](https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1) ---> This Problem showed me very efficient way for level order Traversal in which you know on what level you are!(Level Order Traversal with queue in which you can tell the level).
 35. [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem/0) ----> Not done yet!
+36. [Smallest range in K lists](https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1)
+37. [Longest Sub-Array with Sum K](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k/0)
