@@ -862,3 +862,13 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Longest Sub-Array with Sum K](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k/0)
 > GSOC
 - [x] Submitted Proposal
+
+---
+
+### **Day 73**
+**DSA :**
+- [x] [Rearrange an array with O(1) extra space](https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space/01)
+- [x] [Smallest Positive missing number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/1)
+- [x] [Maximum Sub Array](https://practice.geeksforgeeks.org/problems/maximum-sub-array/0)
+> GSOC
+- [x] Submitted Proposal
