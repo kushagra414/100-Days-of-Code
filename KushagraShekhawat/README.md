@@ -872,3 +872,12 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Maximum Sub Array](https://practice.geeksforgeeks.org/problems/maximum-sub-array/0)
 > GSOC
 - [x] Submitted Proposal
+
+---
+
+### **Day 74**
+**DSA :**
+- [x] [Given a linked list, reverse alternate nodes and append at the end](https://practice.geeksforgeeks.org/problems/given-a-linked-list-reverse-alternate-nodes-and-append-at-the-end/1)
+- [x] [Binary Tree to CDLL](https://practice.geeksforgeeks.org/problems/binary-tree-to-cdll/1)
+> GSOC
+- [x] Submitted Proposal
