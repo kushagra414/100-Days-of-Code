@@ -36,4 +36,5 @@
 35. [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem/0) ----> Not done yet!
 36. [Smallest range in K lists](https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1)
 37. [Longest Sub-Array with Sum K](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k/0)
-38.  [Maximum Sub Array](https://practice.geeksforgeeks.org/problems/maximum-sub-array/0)
+38. [Maximum Sub Array](https://practice.geeksforgeeks.org/problems/maximum-sub-array/0)
+39. [Print leaf nodes from preorder traversal of BST](https://practice.geeksforgeeks.org/problems/print-leaf-nodes-from-preorder-traversal-of-bst/0)

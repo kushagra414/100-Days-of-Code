@@ -1036,3 +1036,15 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Binary Tree to CDLL](https://practice.geeksforgeeks.org/problems/binary-tree-to-cdll/1)
 > GSOC
 - [x] Submitted Proposal
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
+---
+
+### **Day 75**
+**DSA :**
+- [x] [Print leaf nodes from preorder traversal of BST](https://practice.geeksforgeeks.org/problems/print-leaf-nodes-from-preorder-traversal-of-bst/0)
+- [x] [Save Gotham!](https://practice.geeksforgeeks.org/problems/save-gotham/0)
+- [x] [Foldable Binary Tree](https://practice.geeksforgeeks.org/problems/foldable-binary-tree/1)
+> GSOC
+- [x] Submitted Proposal
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
