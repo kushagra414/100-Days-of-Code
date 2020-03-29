@@ -891,3 +891,13 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Foldable Binary Tree](https://practice.geeksforgeeks.org/problems/foldable-binary-tree/1)
 > GSOC
 - [x] Submitted Proposal
+
+---
+
+### **Day 76**
+**DSA :**
+- [x] [Convert an array to reduced form](https://practice.geeksforgeeks.org/problems/convert-an-array-to-reduced-form/0)
+- [x] [Design a tiny URL or URL shortener](https://practice.geeksforgeeks.org/problems/design-a-tiny-url-or-url-shortener/0)
+> GSOC
+- [x] Submitted Proposal
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
