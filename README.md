@@ -1058,3 +1058,14 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 > GSOC
 - [x] Submitted Proposal
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
+---
+
+### **Day 77**
+**DSA :**
+- [x] [Construct expression tree](https://practice.geeksforgeeks.org/problems/construct-an-expression-tree/1)
+- [x] [Number of root to leaf paths](https://practice.geeksforgeeks.org/problems/number-of-root-to-leaf-paths/1)
+- [x] [Find the Closest Element in BST](https://practice.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1/) 
+> GSOC
+- [x] Submitted Proposal
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
