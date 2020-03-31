@@ -910,3 +910,13 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Find the Closest Element in BST](https://practice.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1/) 
 > GSOC
 - [x] Submitted Proposal
+
+---
+
+### **Day 78**
+**DSA :**
+- [x] [Add all greater values to every node in a BST](https://practice.geeksforgeeks.org/problems/add-all-greater-values-to-every-node-in-a-bst/1)
+- [x] [Merge two BST 's](https://practice.geeksforgeeks.org/problems/merge-two-bst-s/1)
+- [x] [k-th smallest element in BST](https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1) 
+> GSOC
+- [x] Submitted Proposal
