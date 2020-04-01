@@ -920,3 +920,13 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [k-th smallest element in BST](https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1) 
 > GSOC
 - [x] Submitted Proposal
+
+---
+
+### **Day 79**
+**DSA :**
+- [x] [Find a pair with given target in BST](https://practice.geeksforgeeks.org/problems/find-a-pair-with-given-target-in-bst/1)
+- [x] [Pairs violating BST property](https://practice.geeksforgeeks.org/problems/pairs-violating-bst-property/1)
+> GSOC
+- [x] Submitted Proposal
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
