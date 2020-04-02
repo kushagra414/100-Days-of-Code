@@ -930,3 +930,14 @@ I will be participating in following Activities in 100 Days of Code.
 > GSOC
 - [x] Submitted Proposal
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
+---
+
+### **Day 80**
+**DSA :**
+- [x] [Preorder Traversal and BST](https://practice.geeksforgeeks.org/problems/preorder-traversal-and-bst/0)
+- [x] [Count Number of SubTrees having given Sum](https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1)
+- [x] [Quick Sort on Linked List](https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1)
+- [x] [Merge Sort on Doubly Linked List](https://practice.geeksforgeeks.org/problems/merge-sort-on-doubly-linked-list/1) 
+> GSOC
+- [x] Submitted Proposal
