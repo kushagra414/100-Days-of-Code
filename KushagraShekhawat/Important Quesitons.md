@@ -39,3 +39,5 @@
 38. [Maximum Sub Array](https://practice.geeksforgeeks.org/problems/maximum-sub-array/0)
 39. [Print leaf nodes from preorder traversal of BST](https://practice.geeksforgeeks.org/problems/print-leaf-nodes-from-preorder-traversal-of-bst/0)
 40. [Merge Sort on Doubly Linked List](https://practice.geeksforgeeks.org/problems/merge-sort-on-doubly-linked-list/1)
+41. [Swap Kth nodes from ends](https://practice.geeksforgeeks.org/problems/swap-kth-node-from-beginning-and-kth-node-from-end-in-a-singly-linked-list/1)
+42. [Check if subtree](https://practice.geeksforgeeks.org/problems/check-if-subtree/1) 

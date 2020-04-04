@@ -1101,3 +1101,24 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Merge Sort on Doubly Linked List](https://practice.geeksforgeeks.org/problems/merge-sort-on-doubly-linked-list/1) 
 > GSOC
 - [x] Submitted Proposal
+
+---
+
+### **Day 81**
+**DSA :**
+- [x] [Add two numbers represented by Linked List](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-list/1)
+- [x] [Swap Kth nodes from ends](https://practice.geeksforgeeks.org/problems/swap-kth-node-from-beginning-and-kth-node-from-end-in-a-singly-linked-list/1)
+> GSOC
+- [x] Submitted Proposal
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
+---
+
+### **Day 82**
+**DSA :**
+- [x] [Extreme nodes in alternate order](https://practice.geeksforgeeks.org/problems/extreme-nodes-in-alternate-order/1)
+- [x] [Leftmost and rightmost nodes of binary tree](https://practice.geeksforgeeks.org/problems/leftmost-and-rightmost-nodes-of-binary-tree/1)
+- [x] [Check if subtree](https://practice.geeksforgeeks.org/problems/check-if-subtree/1) 
+> GSOC
+- [x] Submitted Proposal
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
