@@ -1122,3 +1122,14 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 > GSOC
 - [x] Submitted Proposal
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
+---
+
+### **Day 83**
+**DSA :**
+- [x] [ ]()
+- [x] [ ]()
+- [x] [ ]() 
+> GSOC
+- [x] Submitted Proposal
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
