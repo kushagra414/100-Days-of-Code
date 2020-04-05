@@ -19,7 +19,7 @@
 19. [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)   ----> Very Imp
 20. [Find all four sum numbers](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0)
 21. [Stock buy and sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0)
-22. [Lowest Common Ancestor in a BST](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1)
+22. [Lowest Common Ancestor in a BST](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1)  [Video](https://www.youtube.com/watch?v=13m9ZCB8gjw)
 23. [Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
 24. [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
 25. [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
@@ -41,3 +41,6 @@
 40. [Merge Sort on Doubly Linked List](https://practice.geeksforgeeks.org/problems/merge-sort-on-doubly-linked-list/1)
 41. [Swap Kth nodes from ends](https://practice.geeksforgeeks.org/problems/swap-kth-node-from-beginning-and-kth-node-from-end-in-a-singly-linked-list/1)
 42. [Check if subtree](https://practice.geeksforgeeks.org/problems/check-if-subtree/1) 
+43. [Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
+44. [Min distance between two given nodes of a Binary Tree](https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1)
+45. [Lowest Common Ancestor in a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1)

@@ -960,3 +960,14 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Check if subtree](https://practice.geeksforgeeks.org/problems/check-if-subtree/1) 
 > GSOC
 - [x] Submitted Proposal
+
+---
+
+### **Day 83**
+**DSA :**
+- [x] [Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
+- [x] [Serialize and Deserialize a Binary Tree](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1)
+- [x] [Min distance between two given nodes of a Binary Tree](https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1)
+- [x] [Lowest Common Ancestor in a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1)
+> GSOC
+- [x] Submitted Proposal
