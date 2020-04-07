@@ -1134,3 +1134,15 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 > GSOC
 - [x] Submitted Proposal
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
+---
+
+### **Day 83**
+**DSA :**
+- [x] [Mirror of a given node](https://practice.geeksforgeeks.org/problems/mirror-of-a-given-node/1)
+- [x] [ ]()
+- [x] [ ]()
+- [x] [ ]()
+> GSOC
+- [x] Submitted Proposal
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
