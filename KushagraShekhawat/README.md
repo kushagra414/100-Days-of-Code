@@ -971,3 +971,13 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Lowest Common Ancestor in a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1)
 > GSOC
 - [x] Submitted Proposal
+
+---
+
+### **Day 84**
+**DSA :**
+- [x] [Mirror of a given node](https://practice.geeksforgeeks.org/problems/mirror-of-a-given-node/1)
+- [x] [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
+> GSOC
+- [x] Submitted Proposal
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai

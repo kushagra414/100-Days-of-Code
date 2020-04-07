@@ -1137,12 +1137,10 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 
 ---
 
-### **Day 83**
+### **Day 84**
 **DSA :**
 - [x] [Mirror of a given node](https://practice.geeksforgeeks.org/problems/mirror-of-a-given-node/1)
-- [x] [ ]()
-- [x] [ ]()
-- [x] [ ]()
+- [x] [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
 > GSOC
 - [x] Submitted Proposal
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
