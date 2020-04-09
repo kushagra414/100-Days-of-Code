@@ -981,3 +981,25 @@ I will be participating in following Activities in 100 Days of Code.
 > GSOC
 - [x] Submitted Proposal
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
+---
+
+### **Day 85**
+**DSA :**
+- [x] [Construct Binary Tree from Parent Array](https://practice.geeksforgeeks.org/problems/construct-binary-tree-from-parent-array/1)
+- [x] [Sum of bit differences](https://practice.geeksforgeeks.org/problems/sum-of-bit-differences/0)
+- [x] [Minimum Swaps to Sort](https://practice.geeksforgeeks.org/problems/minimum-swaps/1)
+> GSOC
+- [x] Submitted Proposal
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
+---
+
+### **Day 86**
+**DSA :**
+- [x] [Sorting Elements of an Array by Frequency](https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/1)
+- [x] [Count of Subarrays](https://practice.geeksforgeeks.org/problems/count-of-subarrays/0)
+- [x] [Overlapping Intervals](https://practice.geeksforgeeks.org/problems/overlapping-intervals/0)
+> GSOC
+- [x] Submitted Proposal
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
