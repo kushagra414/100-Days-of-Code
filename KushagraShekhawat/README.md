@@ -980,7 +980,6 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
 
 ---
 
@@ -991,7 +990,6 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Minimum Swaps to Sort](https://practice.geeksforgeeks.org/problems/minimum-swaps/1)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
 
 ---
 
@@ -1002,4 +1000,13 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Overlapping Intervals](https://practice.geeksforgeeks.org/problems/overlapping-intervals/0)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
+---
+
+### **Day 87**
+**DSA :**
+- [x] [Subarrays with equal 1s and 0s](https://practice.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s/1)
+- [x] [Maximize the sum of selected numbers from an array to make it empty](https://practice.geeksforgeeks.org/problems/maximize-the-sum-of-selected-numbers-from-an-array-to-make-it-empty/0)
+- [x] [Equal Sum](https://practice.geeksforgeeks.org/problems/equal-sum/0)
+> GSOC
+- [x] Submitted Proposal
