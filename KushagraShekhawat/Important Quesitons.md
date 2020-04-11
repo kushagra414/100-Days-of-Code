@@ -46,3 +46,5 @@
 45. [Lowest Common Ancestor in a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1)
 46. [Mirror of a given node](https://practice.geeksforgeeks.org/problems/mirror-of-a-given-node/1)
 47. [Sum of bit differences](https://practice.geeksforgeeks.org/problems/sum-of-bit-differences/0)
+48. [Minimum swaps and K together](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0)
+49. [Possible groups](https://practice.geeksforgeeks.org/problems/possible-groups/0)

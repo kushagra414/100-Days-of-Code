@@ -1010,3 +1010,13 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Equal Sum](https://practice.geeksforgeeks.org/problems/equal-sum/0)
 > GSOC
 - [x] Submitted Proposal
+
+---
+
+### **Day 88**
+**DSA :**
+- [x] [Minimum swaps and K together](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0)
+- [x] [Maximum bitonic subarray sum](https://practice.geeksforgeeks.org/problems/maximum-bitonic-subarray-sum/0)
+- [x] [Possible groups](https://practice.geeksforgeeks.org/problems/possible-groups/0)
+> GSOC
+- [x] Submitted Proposal
