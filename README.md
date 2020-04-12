@@ -1188,3 +1188,14 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 > GSOC
 - [x] Submitted Proposal
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
+---
+
+### **Day 89**
+**DSA :**
+- [x] [Smallest Absolute Difference](https://practice.geeksforgeeks.org/problems/smallest-absolute-difference/0)
+- [x] [The Tiny Miny](https://practice.geeksforgeeks.org/problems/the-tiny-miny/0)
+- [x] [Maximize The Array](https://practice.geeksforgeeks.org/problems/maximize-the-array/0)
+> GSOC
+- [x] Submitted Proposal
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
