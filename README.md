@@ -1199,3 +1199,14 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 > GSOC
 - [x] Submitted Proposal
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
+---
+
+### **Day 90**
+**DSA :**
+- [x] [Longest subarray with sum divisible by K](https://practice.geeksforgeeks.org/problems/longest-subarray-with-sum-divisible-by-k/0)
+- [x] [Maximum length Bitonic Subarray](https://practice.geeksforgeeks.org/problems/maximum-length-bitonic-subarray/0)
+- [x] [Largest Sum Subarray of Size at least K](https://practice.geeksforgeeks.org/problems/largest-sum-subarray-of-size-at-least-k/0)
+> GSOC
+- [x] Submitted Proposal
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai

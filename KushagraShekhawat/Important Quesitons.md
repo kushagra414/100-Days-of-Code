@@ -48,3 +48,5 @@
 47. [Sum of bit differences](https://practice.geeksforgeeks.org/problems/sum-of-bit-differences/0)
 48. [Minimum swaps and K together](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0)
 49. [Possible groups](https://practice.geeksforgeeks.org/problems/possible-groups/0)
+50. [Longest subarray with sum divisible by K](https://practice.geeksforgeeks.org/problems/longest-subarray-with-sum-divisible-by-k/0)
+51. [Largest Sum Subarray of Size at least K](https://practice.geeksforgeeks.org/problems/largest-sum-subarray-of-size-at-least-k/0)
