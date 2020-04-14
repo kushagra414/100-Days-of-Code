@@ -1033,10 +1033,20 @@ I will be participating in following Activities in 100 Days of Code.
 
 ---
 
-### **Day 89**
+### **Day 90**
 **DSA :**
 - [x] [Longest subarray with sum divisible by K](https://practice.geeksforgeeks.org/problems/longest-subarray-with-sum-divisible-by-k/0)
 - [x] [Maximum length Bitonic Subarray](https://practice.geeksforgeeks.org/problems/maximum-length-bitonic-subarray/0)
 - [x] [Largest Sum Subarray of Size at least K](https://practice.geeksforgeeks.org/problems/largest-sum-subarray-of-size-at-least-k/0)
+> GSOC
+- [x] Submitted Proposal
+
+---
+
+### **Day 91**
+**DSA :**
+- [x] [Number to words](https://practice.geeksforgeeks.org/problems/number-to-words/0)
+- [x] [Sum of XOR of all pairs](https://practice.geeksforgeeks.org/problems/sum-of-xor-of-all-pairs/0)
+- [x] [Minimum sum](https://practice.geeksforgeeks.org/problems/minimum-sum/0)
 > GSOC
 - [x] Submitted Proposal

@@ -1210,3 +1210,14 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 > GSOC
 - [x] Submitted Proposal
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
+---
+
+### **Day 91**
+**DSA :**
+- [x] [Number to words](https://practice.geeksforgeeks.org/problems/number-to-words/0)
+- [x] [Sum of XOR of all pairs](https://practice.geeksforgeeks.org/problems/sum-of-xor-of-all-pairs/0)
+- [x] [Minimum sum](https://practice.geeksforgeeks.org/problems/minimum-sum/0)
+> GSOC
+- [x] Submitted Proposal
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
