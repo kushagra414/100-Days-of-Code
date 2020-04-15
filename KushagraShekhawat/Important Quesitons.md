@@ -52,3 +52,5 @@
 52. [Longest subarray with sum divisible by K](https://practice.geeksforgeeks.org/problems/longest-subarray-with-sum-divisible-by-k/0)
 53. [Largest Sum Subarray of Size at least K](https://practice.geeksforgeeks.org/problems/largest-sum-subarray-of-size-at-least-k/0)
 54. [Minimum sum](https://practice.geeksforgeeks.org/problems/minimum-sum/0)
+55. [Sum of permutations](https://practice.geeksforgeeks.org/problems/sum-of-permutations/1)
+56. [Large Factorials](https://practice.geeksforgeeks.org/problems/large-factorials/0)

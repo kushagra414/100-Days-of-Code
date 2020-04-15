@@ -1050,3 +1050,13 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Minimum sum](https://practice.geeksforgeeks.org/problems/minimum-sum/0)
 > GSOC
 - [x] Submitted Proposal
+
+---
+
+### **Day 92**
+**DSA :**
+- [x] [Sum of permutations](https://practice.geeksforgeeks.org/problems/sum-of-permutations/1)
+- [x] [Overlapping Intervals](https://practice.geeksforgeeks.org/problems/overlapping-intervals4919/1)
+- [x] [Large Factorials](https://practice.geeksforgeeks.org/problems/large-factorials/0)
+> GSOC
+- [x] Submitted Proposal

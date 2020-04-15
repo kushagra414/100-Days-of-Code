@@ -1221,3 +1221,14 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 > GSOC
 - [x] Submitted Proposal
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
+---
+
+### **Day 92**
+**DSA :**
+- [x] [Sum of permutations](https://practice.geeksforgeeks.org/problems/sum-of-permutations/1)
+- [x] [Overlapping Intervals](https://practice.geeksforgeeks.org/problems/overlapping-intervals4919/1)
+- [x] [Large Factorials](https://practice.geeksforgeeks.org/problems/large-factorials/0)
+> GSOC
+- [x] Submitted Proposal
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
