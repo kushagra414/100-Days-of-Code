@@ -1243,3 +1243,18 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 > GSOC
 - [x] Submitted Proposal
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
+---
+
+### **Day 94**
+**DSA :**
+- [x] [Remove duplicate element from sorted Linked List](https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1)
+- [x] [Add two numbers represented by linked lists](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
+- [x] [Delete a Node in Single Linked List](https://practice.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1)
+- [x] [Merge two sorted linked lists](https://practice.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1)
+- [x] [Pairwise swap elements of a linked list](https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1)
+- [x] [Find length of Loop](https://practice.geeksforgeeks.org/problems/find-length-of-loop/1)
+- [x] [Intersection of two sorted Linked lists](https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1)
+> GSOC
+- [x] Submitted Proposal
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
