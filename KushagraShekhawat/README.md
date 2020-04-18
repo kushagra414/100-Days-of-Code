@@ -1084,3 +1084,17 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Intersection of two sorted Linked lists](https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1)
 > GSOC
 - [x] Submitted Proposal
+
+---
+
+### **Day 95**
+**DSA :**
+- [x] [Union of Two Linked Lists](https://practice.geeksforgeeks.org/problems/union-of-two-linked-list/1)
+- [x] [Rearrange an array such that arr[i] = i](https://practice.geeksforgeeks.org/problems/rearrange-an-array-such-that-arri-i/0)
+- [x] [Frequencies of Limited Range Array Elements](https://practice.geeksforgeeks.org/problems/frequency-of-array-elements/0)
+- [x] [Swapping pairs make sum equal](https://practice.geeksforgeeks.org/problems/swapping-pairs-make-sum-equal/0)
+- [x] [Largest subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
+- [x] [Check if array contains contiguous integers with duplicates allowed](https://practice.geeksforgeeks.org/problems/check-if-array-contains-contiguous-integers-with-duplicates-allowed/0)
+- [x] [Non-Repeating Element](https://practice.geeksforgeeks.org/problems/non-repeating-element/0)
+> GSOC
+- [x] Submitted Proposal
