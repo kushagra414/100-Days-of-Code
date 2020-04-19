@@ -55,3 +55,4 @@
 55. [Sum of permutations](https://practice.geeksforgeeks.org/problems/sum-of-permutations/1)
 56. [Large Factorials](https://practice.geeksforgeeks.org/problems/large-factorials/0)
 57. [Frequencies of Limited Range Array Elements](https://practice.geeksforgeeks.org/problems/frequency-of-array-elements/0)
+58. [Check for Balanced Tree](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1)
