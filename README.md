@@ -1279,13 +1279,26 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 
 ### **Day 96**
 **DSA :**
-- [x] [Sum of leaf nodes in BST](https://practice.geeksforgeeks.org/problems/sum-of-leaf-nodes-in-bst/11)
+- [x] [Sum of leaf nodes in BST](https://practice.geeksforgeeks.org/problems/sum-of-leaf-nodes-in-bst/1)
 - [x] [Level order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1)
 - [x] [Check for Balanced Tree](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1)
 - [x] [Level order traversal Line by Line](https://practice.geeksforgeeks.org/problems/level-order-traversal-line-by-line/1)
 - [x] [Count distinct elements in every window](https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1)
 - [x] [Find duplicates in an array](https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1)
 - [x] [Reverse Level Order Traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)
+> GSOC
+- [x] Submitted Proposal
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
+---
+
+### **Day 97**
+**DSA :**
+- [x] [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem/0)
+- [x] [Sum of Leaf Nodes](https://practice.geeksforgeeks.org/problems/sum-of-leaf-nodes/1)
+- [x] [Sum of Right Leaf Nodes](https://practice.geeksforgeeks.org/problems/sum-of-right-leaf-nodes/1)
+- [x] [Max Level Sum in Binary Tree](https://practice.geeksforgeeks.org/problems/max-level-sum-in-binary-tree/1)
+- [x] [Minimum Depth of a Binary Tree](https://practice.geeksforgeeks.org/problems/minimum-depth-of-a-binary-tree/1)
 > GSOC
 - [x] Submitted Proposal
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
