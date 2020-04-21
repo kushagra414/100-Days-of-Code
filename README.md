@@ -1302,3 +1302,14 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 > GSOC
 - [x] Submitted Proposal
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
+---
+
+### **Day 98**
+**DSA :**
+- [x] [Populate Inorder Successor for all nodes](https://practice.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1)
+- [x] [Print Nodes having K leaves ](https://practice.geeksforgeeks.org/problems/print-nodes-having-k-leaves/1)
+- [x] [Maximum difference between node and its ancestor](https://practice.geeksforgeeks.org/problems/maximum-difference-between-node-and-its-ancestor/1)
+> GSOC
+- [x] Submitted Proposal
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai

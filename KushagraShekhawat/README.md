@@ -1124,3 +1124,13 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Minimum Depth of a Binary Tree](https://practice.geeksforgeeks.org/problems/minimum-depth-of-a-binary-tree/1)
 > GSOC
 - [x] Submitted Proposal
+
+---
+
+### **Day 98**
+**DSA :**
+- [x] [Populate Inorder Successor for all nodes](https://practice.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1)
+- [x] [Print Nodes having K leaves ](https://practice.geeksforgeeks.org/problems/print-nodes-having-k-leaves/1)
+- [x] [Maximum difference between node and its ancestor](https://practice.geeksforgeeks.org/problems/maximum-difference-between-node-and-its-ancestor/1)
+> GSOC
+- [x] Submitted Proposal
