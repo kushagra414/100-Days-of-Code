@@ -1313,3 +1313,14 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 > GSOC
 - [x] Submitted Proposal
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
+---
+
+### **Day 99**
+**DSA :**
+- [x] [Number of Turns in Binary Tree](https://practice.geeksforgeeks.org/problems/number-of-turns-in-binary-tree/1)
+- [x] [Fixing Two nodes of a BST](https://practice.geeksforgeeks.org/problems/fixed-two-nodes-of-a-bst/1)
+- [x] [Maximum of minimum for every window size](https://practice.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size/0)
+> GSOC
+- [x] Submitted Proposal
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
