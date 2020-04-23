@@ -1144,3 +1144,15 @@ I will be participating in following Activities in 100 Days of Code.
 - [x] [Maximum of minimum for every window size](https://practice.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size/0)
 > GSOC
 - [x] Submitted Proposal
+
+---
+
+### **Day 100**
+**DSA :**
+- [x] [Need Some Change](https://practice.geeksforgeeks.org/problems/need-some-change/1)
+- [x] [Count Pairs in an Array](https://practice.geeksforgeeks.org/problems/count-pairs-in-an-array/0)
+- [x] [First negative integer in every window of size k](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k/0)
+- [x] [Remove all duplicates from a given string](https://practice.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string/0)
+- [x] [Distinct absolute array elements](https://practice.geeksforgeeks.org/problems/distinct-absolute-array-elements/0)
+> GSOC
+- [x] Submitted Proposal

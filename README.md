@@ -41,9 +41,9 @@
 
 ---
 
-![Number of Days](https://img.shields.io/badge/Number%20of%20Days-45-brightgreen)
-![Number of DSA Questions](https://img.shields.io/badge/Number%20of%20DSA%20Questions-115-orange)
-![Time given to GSOC](https://img.shields.io/badge/Time%20given%20to%20GSOC-70%20hours-blueviolet)
+![Number of Days](https://img.shields.io/badge/Number%20of%20Days-100-brightgreen)
+![Number of DSA Questions](https://img.shields.io/badge/Number%20of%20DSA%20Questions-263-orange)
+![Time given to GSOC](https://img.shields.io/badge/Time%20given%20to%20GSOC-Probably%20more%20than%20300%20hours-blueviolet)
 
 ---
 
@@ -1324,3 +1324,18 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 > GSOC
 - [x] Submitted Proposal
 >**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
+---
+
+### **Day 100**
+**DSA :**
+- [x] [Need Some Change](https://practice.geeksforgeeks.org/problems/need-some-change/1)
+- [x] [Count Pairs in an Array](https://practice.geeksforgeeks.org/problems/count-pairs-in-an-array/0)
+- [x] [First negative integer in every window of size k](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k/0)
+- [x] [Remove all duplicates from a given string](https://practice.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string/0)
+- [x] [Distinct absolute array elements](https://practice.geeksforgeeks.org/problems/distinct-absolute-array-elements/0)
+> GSOC
+- [x] Submitted Proposal
+>**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
+# Finished 100 Days of Code Successfully  :fire:. Currently I am waiting for the GSOC Results. Thank you everyone who was part of the program.
